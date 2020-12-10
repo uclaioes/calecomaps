@@ -1,14 +1,19 @@
-<!doctype html>
-<html class="no-js" lang="en">
+<!DOCTYPE html>
+<html lang="en">
 
-<head>
-
-	<title>About Us</title>
+	<head>
+		<meta charset="utf-8">
+		<title>About Us</title>
+		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+		
+		<link rel="stylesheet" href="css/bootstrap.css">
+		<link rel="stylesheet" href="css/custom.css">
+		
 	<?php include("inc-header.php") ?>
 </head>
 
 <body>
-	<?php include("analyticstracking.php"); ?>
+	
 
 		<div class="wrapper">
 
@@ -25,7 +30,7 @@
 					</div>
 					<br>
 					<div style="text-align: center;">
-						<IMG SRC="assets/img/team.jpg" ALT="UCLA TRI Team" width="80%" height="auto">
+						<img src="img/team.jpg" ALT="UCLA TRI Team" width="80%" height="auto">
 					</div>
 
 					<br>
@@ -47,7 +52,7 @@
 					<div class="row">
 						<div class="col-md-6">
 							<div style="text-align:center;">
-								<img src="assets/img/magali.jpg" style="width:65%;"  />
+								<img src="img/magali.jpg" style="width:65%;"  />
 							</div>
 
 							<div style="width: 80%; margin: 0 auto;">
@@ -61,7 +66,7 @@
 						</div>
 						<div class="col-md-6">
 							<div style="text-align:center">
-								<img src="assets/img/aanchal.jpg" style="width:65%;" />
+								<img src="img/aanchal.jpg" style="width:65%;" />
 							</div>
 
 							<div style="width: 80%; margin: 0 auto;">
@@ -220,7 +225,7 @@
 
 					<div class="col-md-6">
 						<div align="left">
-							<img src="assets/img/scott.jpg" style="width:300px" />
+							<img src="img/scott.jpg" style="width:300px" />
 							<h2>Scott Gruber</h2>
 							<h4><i>Web developer at the Institute of the Environment and Sustainability</i></h4>
 							<br>
@@ -237,11 +242,24 @@
 				<img class="HorizontalLine" src="assets/img/line.jpg" />
 		</div>
 
-	<?php include("inc-footer.php"); ?>
+		<footer role="contentinfo">
+			<p><a href="/ccep/calecomaps/">Home</a> | <a href="/">IOES</a> | <a
+					href="/ccep/">CCEP</a> | <a
+					href="http://www.ucla.edu/terms-of-use/">Terms of Use/Privacy
+					Policy</a></p>
+		</footer>
 
 
-
-		</div>
+		<script
+			src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js">
+		</script>
+		<script src="https://api.tiles.mapbox.com/mapbox.js/v1.6.2/mapbox.js">
+		</script>
+		<script
+			src="https://api.tiles.mapbox.com/mapbox.js/plugins/leaflet-locatecontrol/v0.24.0/L.Control.Locate.js">
+		</script>
+		<script src="js/bootstrap.min.js"></script>
+		<script src="js/scripts.js"></script>
 </body>
 
 </html>

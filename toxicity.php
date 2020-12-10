@@ -1,13 +1,19 @@
-<!doctype html>
-<html class="no-js" lang="en">
+<!DOCTYPE html>
+<html lang="en">
 
-<head>
-	<title>Toxicity of Total Releases</title>
+	<head>
+		<meta charset="utf-8">
+		<title>Toxicity of Total Releases</title>
+		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+		
+		<link rel="stylesheet" href="css/bootstrap.css">
+		<link rel="stylesheet" href="css/custom.css">
+
 	<?php include("inc-header.php"); ?>
 </head>
 
 <body>
-	<?php include("analyticstracking.php"); ?>
+	
 		<div class="wrapper">
 
 			<?php include("inc-nav.php"); ?>
@@ -24,8 +30,28 @@
 
 				<p>Sources:<a href="http://www.epa.gov/opptintr/rsei/tools/glossary.html" target="_blank">RSEI</a></p>
 
-					<?php include("inc-footer.php"); ?>
+			
 		</div>
+
+		<footer role="contentinfo">
+			<p><a href="/ccep/calecomaps/">Home</a> | <a href="/">IOES</a> | <a
+					href="/ccep/">CCEP</a> | <a
+					href="http://www.ucla.edu/terms-of-use/">Terms of Use/Privacy
+					Policy</a></p>
+		</footer>
+
+
+		<script
+			src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js">
+		</script>
+		<script src="https://api.tiles.mapbox.com/mapbox.js/v1.6.2/mapbox.js">
+		</script>
+		<script
+			src="https://api.tiles.mapbox.com/mapbox.js/plugins/leaflet-locatecontrol/v0.24.0/L.Control.Locate.js">
+		</script>
+		<script src="js/bootstrap.min.js"></script>
+		<script src="js/scripts.js"></script>
+
 </body>
 
 </html>
