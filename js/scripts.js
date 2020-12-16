@@ -264,13 +264,11 @@ function drawVisualization(trif_id) {
             ['Annual Revenue', Revenue + ' USD', ''],
             ['Number of Employees', Employees, ''],
             ['Total Air Releases', AirRelease + ' pounds', AirReleaseRank],
-            ['Total Air Releases per $1000 of Revenue <a href="totalrevenue.php" target="_blank">[?]</a>', RPerRevenue + ' pounds/$1000', AirRevenueRank],
-            ['Total Air Releases per Employee <a href="totalemployee.php" target="_blank">[?]</a>', RPerEmployee + ' pounds/employee', AirEmployeeRank],
-            ['Toxicity of Air Releases <a href="totaltoxicreleases.php " target="_blank">[?]</a>', ToxicAirRelease + ' toxicity x pounds', ToxicRank],
-            //['Toxicity Releases per $1000 of Revenue<a href="toxicrevenue.php" target="_blank">[?]</a>', TPerRevenue+' pounds/$1000', ToxicRevenueRank],
-            //['Toxicity Releases per Employee <a href="toxicemployee.php " target="_blank">[?]</a>', TPerEmployee, ToxicEmployeeRank],
-            ['<a href="chemicals.php " target="_blank">Health Hazards</a>', H1 + H2 + H3 + H4 + H5 + H6 + H7 + H8 + H9 + H10 + H11 + H12 + H13 + H14 + H15 + H16 + H17 + H18, ''],
-            ['Contact This Facility <br><span style="font-weight:normal;"> We suggest you include the following in your email to a particular facility: <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Your name <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- The city of your home neighborhood or workplace <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Name of facility you are concerned about <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Cal EcoMaps classification of the facility <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Why you are concerned about that facility</span> ', "<a href=mailto:" + Email + "?subject=Concerned%20about%20Toxic%20releases%20from%20" + Name + ">" + Email + "</a>", '']
+            ['Total Air Releases per $1000 of Revenue <a href="total-revenue.html" target="_blank">[?]</a>', RPerRevenue + ' pounds/$1000', AirRevenueRank],
+            ['Total Air Releases per Employee <a href="total-employee.html" target="_blank">[?]</a>', RPerEmployee + ' pounds/employee', AirEmployeeRank],
+            ['Toxicity of Air Releases <a href="total-toxic-releases.html" target="_blank">[?]</a>', ToxicAirRelease + ' toxicity x pounds', ToxicRank],
+            ['<a href="chemicals.html" target="_blank">Health Hazards</a>', H1 + H2 + H3 + H4 + H5 + H6 + H7 + H8 + H9 + H10 + H11 + H12 + H13 + H14 + H15 + H16 + H17 + H18, ''],
+            ['Contact This Facility <br><span style="font-weight:normal;"> We suggest you include the following in your email to a particular facility: <br>          - Your name <br>          - The city of your home neighborhood or workplace <br>          - Name of facility you are concerned about <br>          - Cal EcoMaps classification of the facility <br>           - Why you are concerned about that facility</span> ', "<a href=mailto:" + Email + "?subject=Concerned%20about%20Toxic%20releases%20from%20" + Name + ">" + Email + "</a>", '']
         ]);
 
 
