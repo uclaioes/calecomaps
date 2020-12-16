@@ -3,16 +3,98 @@
 
   <head>
     <meta content="text/html; charset=ISO-8859-1" http-equiv="content-type">
-    <title>Powerpoint Summary</title>
+    <title>Methodology</title>
     <link href="css/bootstrap.css" rel="stylesheet">
     <link href="css/style.css" rel="stylesheet">
 
     <script src="https://code.jquery.com/jquery-1.11.0.min.js"></script>
     <script src="js/bootstrap.js"></script>
+    <script type="text/javascript" src="https://www.google.com/jsapi">
+    </script>
+    <script type="text/javascript">
+      google.load('visualization', '1', {
+        packages: ['corechart']
+      });
+
+    </script>
+    <script type="text/javascript">
+      function drawVisualization() {
+        // Create and populate the data table.
+        var data = new google.visualization.DataTable();
+        data.addColumn('string', 'Facility Name');
+        data.addColumn('number', 'Toxic Releases (lbs) per Employee');
+        data.addColumn('number',
+          'LA County Chemicals Industry Average = 414.35 lbs/employee'
+        );
+        data.addColumn('number',
+          'CA Chemicals Industry Average = 303.30 lbs/employee');
+        data.addRows([
+          ['AMERICAS STYRENICS LLC', 5807.40, 414.35, 303.30],
+          ['AIR PRODUCTS & CHEMICALS INC - LONG BEACH',
+            4254.80, 414.35, 303.30
+          ],
+          ['RHODIA INC', 3791.50, 414.35, 303.30],
+          ['AIRGAS DRY ICE', 2497.29, 414.35, 303.30],
+          ['AIR PRODUCTS & CHEMICALS INC - WILMINGTON',
+            2206.80, 414.35, 303.30
+          ],
+          ['AIR LIQUIDE LARGE INDUSTRIES US LP - EL SEGUNDO',
+            2083.50, 414.35, 303.30
+          ],
+          ['AIR LIQUIDE INDUSTRIAL USLP', 1813.88, 414.35,
+            303.30
+          ],
+          ['3M DRUG DELIVERY SYSTEMS', 923.63, 414.35,
+            303.30
+          ],
+          ['INEOS POLYPROPYLENE LLC', 590.00, 414.35, 303.30],
+          ['PHARMAVITE LLC', 510.13, 414.35, 303.30],
+
+        ]);
+
+        // Create and draw the visualization.
+        var ac = new google.visualization.ComboChart(document
+          .getElementById('visualization'));
+        ac.draw(data, {
+          title: 'Chemicals Industry: 2012 Top 10 Facilities with Highest Toxic Releases per Employee in Los Angeles County',
+          width: 600,
+          height: 400,
+          vAxis: {
+            title: "Toxic Releases (lbs) per Employee"
+          },
+          hAxis: {
+            title: "Facility Name (n=76)"
+          },
+          legend: {
+            position: 'bottom'
+          },
+          seriesType: "line",
+          series: {
+            0: {
+              type: "bars",
+              color: 'yellow',
+              visibleInLegend: true
+            },
+            1: {
+              color: 'black'
+            },
+            2: {
+              color: 'darkgray'
+            }
+          }
+
+
+
+        });
+      }
+
+
+      google.setOnLoadCallback(drawVisualization);
+
+    </script>
   </head>
 
   <body>
-
     <div class="wrapper">
 
       <div id="headerlogos" style="width:350px">
@@ -143,25 +225,9 @@
           </div>
         </div>
 
-        <h1>UCLA University Challenge Powerpoint Presentation Summary</h1>
-        This powerpoint was the final presentation for this project.
-        Download PDF:
-        <a href="downloads/ppt.pdf" download>Download</a>
-        <br>
-        <br>
-        <iframe
-          src="https://docs.google.com/file/d/0B9mOxzKZCZz4SXQwT3RCdVN1Qzg/preview"
-          width=100% height="1200"></iframe>
-        </p>
-        <div id="footer">
-          <a href="https://www.ioes.ucla.edu/calecomaps/">Home</a> | <a
-            href="https://www.ioes.ucla.edu/">IOES</a> | <a
-            href="https://www.ioes.ucla.edu/ccep/">CCEP</a> | <a
-            href="https://www.ioes.ucla.edu/calecomaps/FeedbackPage.php">Contact
-            Us</a>
-          |<a href="http://www.ucla.edu/terms-of-use/">Terms of Use/Privacy
-            Policy</a>
-        </div>
+        <div id="visualization" style="width: 600px; height: 400px;"></div>
+
+        Hello World
     </div>
   </body>
 
