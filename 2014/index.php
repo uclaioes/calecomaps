@@ -4,13 +4,13 @@
     <head>
         <meta http-equiv="content-type" content="text/html; charset=utf-8" />
         <title>Cal EcoMaps</title>
-        
+
         <link href="css/bootstrap.css" rel="stylesheet">
         <link href="css/style.css" rel="stylesheet">
-       
+
         <script src="https://code.jquery.com/jquery-1.11.0.min.js"></script>
         <script src="js/bootstrap.js"></script>
-        
+
         <script type="text/javascript" src="https://www.google.com/jsapi">
         </script>
         <script type="text/javascript">
@@ -88,7 +88,7 @@
                         .attr('href', '#CompanyName')
                         .unbind(
                             'click'
-                            ) // unbind any prior click events
+                        ) // unbind any prior click events
                         .click(function () {
                             // add our click event
                             $('#PIECV, #Table').css(
@@ -485,301 +485,345 @@
                 }, 'json');
             }
 
-           
-
         </script>
-        
+
     </head>
 
     <body>
-        <?php include_once("analyticstracking.php") ?>
+
         <div class="wrapper">
 
 
             <div id="headerlogos" style="width:350px">
-<a href="https://www.ioes.ucla.edu/"><img src="img/ucla-ioes-logo.png"
-      alt="IOES" width="300px" /></a>
-<a href="https://www.ioes.ucla.edu/ccep/"><img src="img/cceplogo.jpg"
-      alt="IOES" width="300px" /></a>
-      </div>
-<a href="index.php"><img src="img/logo.png" alt="CalEco Maps"></a>
+                <a href="https://www.ioes.ucla.edu/"><img
+                        src="img/ucla-ioes-logo.png" alt="IOES"
+                        width="300px" /></a>
+                <a href="https://www.ioes.ucla.edu/ccep/"><img
+                        src="img/cceplogo.jpg" alt="IOES" width="300px" /></a>
+            </div>
+            <a href="index.php"><img src="img/logo.png" alt="CalEco Maps"></a>
 
-<nav>
-  <!-- Static navbar -->
-  <div class="bootstrap">
-    <div class="navbar navbar-custom" role="navigation">
-      <div class="container-fluid">
-        <div class="navbar-header">
-          <button type="button" class="navbar-toggle" data-toggle="collapse"
-            data-target=".navbar-collapse">
-            <span class="sr-only">Toggle navigation</span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-          </button>
-          <a class="navbar-brand" href="index.php">Cal EcoMaps</a>
-        </div>
-        <div class="navbar-collapse collapse">
-          <ul class="nav navbar-nav">
-            <li class="dropdown">
-              <a href="#" class="dropdown-toggle"
-                data-toggle="dropdown">Methodology <b class="caret"></b></a>
-              <ul class="dropdown-menu">
-                <li class="divider"></li>
-                <li>
-                  <t><a href="eismethodology.php" style="color: DarkGreen">Cal
-                      EcoMaps Environmental Impact Score</a></t>
-                </li>
-                <li class="divider"></li>
-                <li><a href="Methodology.php">Scope</a></li>
-                <li class="divider"></li>
-                <li>
-                  <t><a href="eri.php" style="color: DarkGreen">Environmental
-                      Impact Indicators</a></t>
-                </li>
-                <li class="divider"></li>
-                <li><a href="TOTALTOXICRELEASES.php">Total Toxic Releases</a>
-                </li>
-                <li><a href="RPKR.php">Releases per $1000 Revenue</a></li>
-                <li><a href="toxicity.php">Toxicity of Total Releases</a></li>
-                <li><a href="CancerMethod.php">Regional Contribution to Lifetime
-                    Cancer Risk </a></li>
-   
-                <li><a href="PPWMA.php">Preferred Waste Management
-                    Activities</a></li>
+            <nav>
+                <!-- Static navbar -->
+                <div class="bootstrap">
+                    <div class="navbar navbar-custom" role="navigation">
+                        <div class="container-fluid">
+                            <div class="navbar-header">
+                                <button type="button" class="navbar-toggle"
+                                    data-toggle="collapse"
+                                    data-target=".navbar-collapse">
+                                    <span class="sr-only">Toggle
+                                        navigation</span>
+                                    <span class="icon-bar"></span>
+                                    <span class="icon-bar"></span>
+                                    <span class="icon-bar"></span>
+                                </button>
+                                <a class="navbar-brand" href="index.php">Cal
+                                    EcoMaps</a>
+                            </div>
+                            <div class="navbar-collapse collapse">
+                                <ul class="nav navbar-nav">
+                                    <li class="dropdown">
+                                        <a href="#" class="dropdown-toggle"
+                                            data-toggle="dropdown">Methodology
+                                            <b class="caret"></b></a>
+                                        <ul class="dropdown-menu">
+                                            <li class="divider"></li>
+                                            <li>
+                                                <t><a href="eismethodology.php"
+                                                        style="color: DarkGreen">Cal
+                                                        EcoMaps Environmental
+                                                        Impact Score</a></t>
+                                            </li>
+                                            <li class="divider"></li>
+                                            <li><a
+                                                    href="Methodology.php">Scope</a>
+                                            </li>
+                                            <li class="divider"></li>
+                                            <li>
+                                                <t><a href="eri.php"
+                                                        style="color: DarkGreen">Environmental
+                                                        Impact Indicators</a>
+                                                </t>
+                                            </li>
+                                            <li class="divider"></li>
+                                            <li><a
+                                                    href="TOTALTOXICRELEASES.php">Total
+                                                    Toxic Releases</a>
+                                            </li>
+                                            <li><a href="RPKR.php">Releases per
+                                                    $1000 Revenue</a></li>
+                                            <li><a href="toxicity.php">Toxicity
+                                                    of Total Releases</a></li>
+                                            <li><a href="CancerMethod.php">Regional
+                                                    Contribution to Lifetime
+                                                    Cancer Risk </a></li>
 
-
-
-              </ul>
-            </li>
-
-
-            <li class="dropdown">
-              <a href="#" class="dropdown-toggle" data-toggle="dropdown">Impact
-                Score <b class="caret"></b></a>
-              <ul class="dropdown-menu">
-                <li class="divider"></li>
-                <li>
-                  <t>Environmental Impact Score Ranking Lists</t>
-                </li>
-                <li class="divider"></li>
-                <li><a href="PetroScores.php">Petroleum </a></li>
-                <li><a href="FMscores.php">Fabricated Metals </a></li>
-                <li><a href="PMScores.php">Primary Metals </a></li>
-
-                <li><a href="ChemScores.php">Chemicals </a></li>
-                <li class="divider"></li>
-                <li class="divider"></li>
-                <li>
-                  <t>Industry Top 10 Facilities Graphs</t>
-                </li>
-                <li class="divider"></li>
-                <li><a href="PMranking.php">Primary Metals</a></li>
-                <li><a href="Petroranking.php">Petroleum</a></li>
-                <li><a href="FMranking.php">Fabricated Metals</a></li>
-                <li><a href="Chemicalsranking.php">Chemicals</a></li>
-
-              </ul>
-            </li>
-            <li class="dropdown">
-              <a href="#" class="dropdown-toggle"
-                data-toggle="dropdown">Downloads<b class="caret"></b></a>
-              <ul class="dropdown-menu">
-                <li><a href="Report.php">Report</a></li>
-                <li><a href="factsheet.php">Fact Sheet</a></li>
-                <li><a href="powerpoint.php">Powerpoint Summary</a></li>
-                <li><a href="Manual.php">Site Manual</a></li>
-                <li><a href="mastersheet.php">Data Sheets</a></li>
-             
-
-
-              </ul>
-            </li>
-
-            <li class="dropdown">
-              <a href="#" class="dropdown-toggle" data-toggle="dropdown">About
-                Us<b class="caret"></b></a>
-              <ul class="dropdown-menu">
-                <li><a href="aboutus.php">Project Members</a></li>
-                <li><a href="Acknowledgements.php">Acknowledgements</a></li>
-
-              </ul>
-            </li>
-            <li><a href="FeedbackPage.php">Feedback</a></li>
-
-          </ul>
-        </div>
-        <!--/.nav-collapse -->
-      </div>
-      <!--/.container-fluid -->
-    </div>
-  </div>
+                                            <li><a href="PPWMA.php">Preferred
+                                                    Waste Management
+                                                    Activities</a></li>
 
 
 
-
-            <h3>Welcome!</h3> Cal EcoMaps is a tool to share and evaluate the
-            environmental performance of Toxics Release Inventory
-            (TRI) facilities in Los Angeles County through the
-            <a href="eismethodology.php">Cal EcoMaps Environmental Impact
-                Score</a>. Use the interactive map below to learn more about
-            your facility or your
-            neighborhood.
-            <br>
-            <br>
+                                        </ul>
+                                    </li>
 
 
-            <!-- The div for the MAP -->
+                                    <li class="dropdown">
+                                        <a href="#" class="dropdown-toggle"
+                                            data-toggle="dropdown">Impact
+                                            Score <b class="caret"></b></a>
+                                        <ul class="dropdown-menu">
+                                            <li class="divider"></li>
+                                            <li>
+                                                <t>Environmental Impact Score
+                                                    Ranking Lists</t>
+                                            </li>
+                                            <li class="divider"></li>
+                                            <li><a href="PetroScores.php">Petroleum
+                                                </a></li>
+                                            <li><a href="FMscores.php">Fabricated
+                                                    Metals </a></li>
+                                            <li><a href="PMScores.php">Primary
+                                                    Metals </a></li>
 
-            <div id="map"></div>
-            <div id='legend-content' style='display: none;'>
-                <div class='my-legend'>
-                    <div class='legend-title'>Industry Name</div>
-                    <div class='legend-scale'>
-                        <ul class='legend-labels'>
-                            <li>
-                                <span
-                                    style='background:MediumBlue'></span>Primary
-                                Metals</li>
-                            <li>
-                                <span
-                                    style='background:FireBrick;'></span>Petroleum
-                            </li>
-                            <li>
-                                <span style='background:Gold;'></span>Chemicals
-                            </li>
-                            <li>
-                                <span
-                                    style='background:DarkGreen;'></span>Fabricated
-                                Metals</li>
-                            <li>
-                                <span style='background:#6c6c6c;'></span>Other
-                                Industries</li>
-                        </ul>
+                                            <li><a href="ChemScores.php">Chemicals
+                                                </a></li>
+                                            <li class="divider"></li>
+                                            <li class="divider"></li>
+                                            <li>
+                                                <t>Industry Top 10 Facilities
+                                                    Graphs</t>
+                                            </li>
+                                            <li class="divider"></li>
+                                            <li><a href="PMranking.php">Primary
+                                                    Metals</a></li>
+                                            <li><a
+                                                    href="Petroranking.php">Petroleum</a>
+                                            </li>
+                                            <li><a href="FMranking.php">Fabricated
+                                                    Metals</a></li>
+                                            <li><a
+                                                    href="Chemicalsranking.php">Chemicals</a>
+                                            </li>
+
+                                        </ul>
+                                    </li>
+                                    <li class="dropdown">
+                                        <a href="#" class="dropdown-toggle"
+                                            data-toggle="dropdown">Downloads<b
+                                                class="caret"></b></a>
+                                        <ul class="dropdown-menu">
+                                            <li><a href="Report.php">Report</a>
+                                            </li>
+                                            <li><a href="factsheet.php">Fact
+                                                    Sheet</a></li>
+                                            <li><a href="powerpoint.php">Powerpoint
+                                                    Summary</a></li>
+                                            <li><a href="Manual.php">Site
+                                                    Manual</a></li>
+                                            <li><a href="mastersheet.php">Data
+                                                    Sheets</a></li>
+
+
+
+                                        </ul>
+                                    </li>
+
+                                    <li class="dropdown">
+                                        <a href="#" class="dropdown-toggle"
+                                            data-toggle="dropdown">About
+                                            Us<b class="caret"></b></a>
+                                        <ul class="dropdown-menu">
+                                            <li><a href="aboutus.php">Project
+                                                    Members</a></li>
+                                            <li><a
+                                                    href="Acknowledgements.php">Acknowledgements</a>
+                                            </li>
+
+                                        </ul>
+                                    </li>
+                                    <li><a href="FeedbackPage.php">Feedback</a>
+                                    </li>
+
+                                </ul>
+                            </div>
+                            <!--/.nav-collapse -->
+                        </div>
+                        <!--/.container-fluid -->
                     </div>
-                    <div class='legend-source'>Source: EPA Toxics Release
-                        Inventory</div>
                 </div>
 
-                <style type='text/css'>
-                    .my-legend .legend-title {
-                        text-align: left;
-                        margin-bottom: 5px;
-                        font-weight: bold;
-                        font-size: 90%;
-                    }
 
-                    .my-legend .legend-scale ul {
-                        margin: 0;
-                        margin-bottom: 5px;
-                        padding: 0;
-                        float: left;
-                        list-style: none;
-                    }
 
-                    .my-legend .legend-scale ul li {
-                        font-size: 80%;
-                        list-style: none;
-                        margin-left: 0;
-                        line-height: 18px;
-                        margin-bottom: 2px;
-                    }
 
-                    .my-legend ul.legend-labels li span {
-                        display: block;
-                        float: left;
-                        height: 16px;
-                        width: 30px;
-                        margin-right: 5px;
-                        margin-left: 0;
-                        border: 1px solid #999;
-                    }
+                <h3>Welcome!</h3> Cal EcoMaps is a tool to share and evaluate
+                the
+                environmental performance of Toxics Release Inventory
+                (TRI) facilities in Los Angeles County through the
+                <a href="eismethodology.php">Cal EcoMaps Environmental Impact
+                    Score</a>. Use the interactive map below to learn more about
+                your facility or your
+                neighborhood.
+                <br>
+                <br>
 
-                    .my-legend .legend-source {
-                        font-size: 70%;
-                        color: #999;
-                        clear: both;
-                    }
 
-                    .my-legend a {
-                        color: #777;
-                    }
+                <!-- The div for the MAP -->
 
-                </style>
-
-            </div>
-
-            <div id='legend-content2' style='display: none;'>
-                <div class='my-legend2'>
-                    <div class='legend-title'>Population Density</div>
-                    <div class='legend-scale'>
-                        <ul class='legend-labels'>
-                            <li>
-                                <span style='background:#D8BFD8;'></span>low
-                            </li>
-                            <li>
-                                <span style='background:#4B0082;'></span>high
-                            </li>
-                        </ul>
+                <div id="map"></div>
+                <div id='legend-content' style='display: none;'>
+                    <div class='my-legend'>
+                        <div class='legend-title'>Industry Name</div>
+                        <div class='legend-scale'>
+                            <ul class='legend-labels'>
+                                <li>
+                                    <span
+                                        style='background:MediumBlue'></span>Primary
+                                    Metals</li>
+                                <li>
+                                    <span
+                                        style='background:FireBrick;'></span>Petroleum
+                                </li>
+                                <li>
+                                    <span
+                                        style='background:Gold;'></span>Chemicals
+                                </li>
+                                <li>
+                                    <span
+                                        style='background:DarkGreen;'></span>Fabricated
+                                    Metals</li>
+                                <li>
+                                    <span
+                                        style='background:#6c6c6c;'></span>Other
+                                    Industries</li>
+                            </ul>
+                        </div>
+                        <div class='legend-source'>Source: EPA Toxics Release
+                            Inventory</div>
                     </div>
-                    <div class='legend-source'>Source: U.S. Census Bureau</div>
+
+                    <style type='text/css'>
+                        .my-legend .legend-title {
+                            text-align: left;
+                            margin-bottom: 5px;
+                            font-weight: bold;
+                            font-size: 90%;
+                        }
+
+                        .my-legend .legend-scale ul {
+                            margin: 0;
+                            margin-bottom: 5px;
+                            padding: 0;
+                            float: left;
+                            list-style: none;
+                        }
+
+                        .my-legend .legend-scale ul li {
+                            font-size: 80%;
+                            list-style: none;
+                            margin-left: 0;
+                            line-height: 18px;
+                            margin-bottom: 2px;
+                        }
+
+                        .my-legend ul.legend-labels li span {
+                            display: block;
+                            float: left;
+                            height: 16px;
+                            width: 30px;
+                            margin-right: 5px;
+                            margin-left: 0;
+                            border: 1px solid #999;
+                        }
+
+                        .my-legend .legend-source {
+                            font-size: 70%;
+                            color: #999;
+                            clear: both;
+                        }
+
+                        .my-legend a {
+                            color: #777;
+                        }
+
+                    </style>
+
                 </div>
 
-                <style type='text/css'>
-                    .my-legend2 .legend-title {
-                        text-align: left;
-                        margin-bottom: 8px;
-                        font-weight: bold;
-                        font-size: 90%;
-                    }
+                <div id='legend-content2' style='display: none;'>
+                    <div class='my-legend2'>
+                        <div class='legend-title'>Population Density</div>
+                        <div class='legend-scale'>
+                            <ul class='legend-labels'>
+                                <li>
+                                    <span style='background:#D8BFD8;'></span>low
+                                </li>
+                                <li>
+                                    <span
+                                        style='background:#4B0082;'></span>high
+                                </li>
+                            </ul>
+                        </div>
+                        <div class='legend-source'>Source: U.S. Census Bureau
+                        </div>
+                    </div>
 
-                    .my-legend2 .legend-scale ul {
-                        margin: 0;
-                        padding: 0;
-                        float: left;
-                        list-style: none;
-                    }
+                    <style type='text/css'>
+                        .my-legend2 .legend-title {
+                            text-align: left;
+                            margin-bottom: 8px;
+                            font-weight: bold;
+                            font-size: 90%;
+                        }
 
-                    .my-legend2 .legend-scale ul li {
-                        display: block;
-                        float: left;
-                        width: 50px;
-                        margin-bottom: 6px;
-                        text-align: center;
-                        font-size: 80%;
-                        list-style: none;
-                    }
+                        .my-legend2 .legend-scale ul {
+                            margin: 0;
+                            padding: 0;
+                            float: left;
+                            list-style: none;
+                        }
 
-                    .my-legend2 ul.legend-labels li span {
-                        display: block;
-                        float: left;
-                        height: 15px;
-                        width: 50px;
-                    }
+                        .my-legend2 .legend-scale ul li {
+                            display: block;
+                            float: left;
+                            width: 50px;
+                            margin-bottom: 6px;
+                            text-align: center;
+                            font-size: 80%;
+                            list-style: none;
+                        }
 
-                    .my-legend2 .legend-source {
-                        font-size: 70%;
-                        color: #999;
-                        clear: both;
-                    }
+                        .my-legend2 ul.legend-labels li span {
+                            display: block;
+                            float: left;
+                            height: 15px;
+                            width: 50px;
+                        }
 
-                    .my-legend2 a {
-                        color: #777;
-                    }
+                        .my-legend2 .legend-source {
+                            font-size: 70%;
+                            color: #999;
+                            clear: both;
+                        }
 
-                </style>
-            </div>
+                        .my-legend2 a {
+                            color: #777;
+                        }
+
+                    </style>
+                </div>
 
 
 
-            <br>
-            <div id="CompanyName"></div>
-            <div id="top"></div>
-            <div id="TypeIndustry"></div>
-            <br>
-            <div id="SCORE"></div>
-            <div id="noteimpact"></div>
-            <br>
+                <br>
+                <div id="CompanyName"></div>
+                <div id="top"></div>
+                <div id="TypeIndustry"></div>
+                <br>
+                <div id="SCORE"></div>
+                <div id="noteimpact"></div>
+                <br>
         </div>
         <div class="TABLEPIE">
             <div id="Table"></div>
@@ -793,7 +837,15 @@
             <br>
             <br>
             <div id="footer">
-                <?php include('footer.php'); ?> </div>
+                <a href="https://www.ioes.ucla.edu/calecomaps/">Home</a> | <a
+                    href="https://www.ioes.ucla.edu/">IOES</a> | <a
+                    href="https://www.ioes.ucla.edu/ccep/">CCEP</a> | <a
+                    href="https://www.ioes.ucla.edu/calecomaps/FeedbackPage.php">Contact
+                    Us</a>
+                |<a href="http://www.ucla.edu/terms-of-use/">Terms of
+                    Use/Privacy
+                    Policy</a>
+            </div>
             <br>
             <br>
         </div>
