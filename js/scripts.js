@@ -1,43 +1,45 @@
-//Declaring Variables
+// Declare Variables
 // Variables and functions can be outside the window load event
 var Stats = "1RlZb9u6T8c5bwZYVqJITS5CrMuCIw3rucfmyi2j-";
 var apiKey = "AIzaSyAM_cjZdUnAQMuv7-WMxWimmP72IUHjOrA";
+var MAP; // This is the variable that will hold the Mapbox map
 
 
-// This Variable for [“Rank” (Lower number = higher emissions)]
-//var Stats = "1N9VZ6fmzHM0s6xRxQEY2jJqtxagmv7CFjdM4nFi-";
-
-
-// This is the variable that will hold the Mapbox map
-var MAP;
-
-// This is the access token for the map
-
-//Data Display and Functions
+// dataset ids
+// cement 393 features fbf584657a207e81e3c26b2c628cbc0b
+// industry 395 features b11a35f6c0e95fbde4ed4a91c67bf757
+// factories 157 features edb6bbce7c3d9967f4ca5eb7d38b90f7
+// cement 393 features 055b6485bcab64da9cc470997acec245
 
 // After the page loads, add the MAP and click events
-
 $(window).load(function () {
     //$(document).ready(function() {
 
 
-    L.mapbox.accessToken = 'pk.eyJ1IjoidWNsYWlvZXMiLCJhIjoiY2tpOWNhbmVqMGU5YjM1bW4yNWdhemRzcSJ9.yAY0hvGZ4aJOMZvEQPOKxw';
-    // The MAP, with coordinates and zoom from the iframe
-    MAP = L.mapbox.map('map', 'calecomaps.m77pfmd9').setView([33.984, -118.093], 10).addControl(L.mapbox.geocoderControl('calecomaps.ie7i3b66', {
-        keepOpen: false
-    }));
+    mapboxgl.accessToken = 'pk.eyJ1IjoiY2FsZWNvbWFwcyIsImEiOiJja2k5ZmpwdGQwMXdjMnJtc2x3N3A3NzZ6In0.W5YVaEVvF-T9eXLK4MkcfQ';
+
+    var map = new mapboxgl.Map({
+        container: 'map',
+        style: 'mapbox://styles/calecomaps/ckis3qcxz0ksy19rvs5z8l9zm'
+        });
+        
+    // MAP = L.mapbox.map('map', 'calecomaps.m77pfmd9').setView([33.984, -118.093], 10).addControl(L.mapbox.geocoderControl('calecomaps.ie7i3b66', {
+    //     keepOpen: false
+    // }));
 
     L.control.locate({
         locateOptions: {
             maxZoom: 13
         }
     }).addTo(MAP);
+
     L.control.layers({
-        'Los Angeles Base Map': L.mapbox.tileLayer('calecomaps.m77pfmd9').addTo(MAP),
+        'Los Angeles Base Map': L.mapbox.tileLayer('calecomaps.m77pfmd9').addTo(map),
     }, {
+        // custom tile sets in CalEcoMaps Mapbox account
         'Sensitive Population Density': L.mapbox.tileLayer('calecomaps.7mig8k4v'),
         'California Protected Area': L.mapbox.tileLayer('calecomaps.toqu8nzc'),
-        'Schools and Colleges': L.mapbox.tileLayer('calecomaps.vavvh43i'),
+        'Schools': L.mapbox.tileLayer('calecomaps.vavvh43i'),
     }, {
         collapsed: false
     }).addTo(MAP);
@@ -285,6 +287,3 @@ function drawVisualization(trif_id) {
 
 google.setOnLoadCallback(drawVisualization);
 
-
-
-// google.setOnLoadCallback(drawVisualization(trif_id));

@@ -1,0 +1,4558 @@
+{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Chemicals": true,
+        "Class": "Low",
+        "Description": "Rank 13 of 56 Within Chemicals Industry<br><a>Click here for additional details.</a>",
+        "Fabricated Metals": false,
+        "Industry": "Chemicals         ",
+        "Name": "CUSTOM CHEMICAL FORMULATORS INC",
+        "Petroleum": false,
+        "Petroleum Bulk": false,
+        "Primary Metals": false,
+        "TRIF ID": "90670DPNC 8707S",
+        "description": "Toxicity is 13th Highest of 56 Within Chemicals Industry<br><a>Click here for additional details.</a>",
+        "id": "marker-i9tbt4j526",
+        "marker-color": "#f1f075",
+        "marker-size": "small",
+        "marker-symbol": "",
+        "title": "CUSTOM CHEMICAL FORMULATORS INC"
+      },
+      "geometry": {
+        "coordinates": [
+          -118.080079,
+          33.963802
+        ],
+        "type": "Point"
+      },
+      "id": "ci9tbxv20013fi9lva5h5z8tv"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Chemicals": false,
+        "Class": "High",
+        "Description": "Rank 1 of 23 Within Petroleum Bulk Industry<br><a>Click here for additional details.</a>",
+        "Fabricated Metals": false,
+        "Industry": "Petroleum Bulk Industry",
+        "Name": "CHEMOIL TERMINALS CORP",
+        "Petroleum": false,
+        "Petroleum Bulk": true,
+        "Primary Metals": false,
+        "TRIF ID": "90810CRSNT2365E",
+        "description": "Toxicity is 1st Highest of 23 Within Petroleum Bulk Industry<br><a>Click here for additional details.</a>",
+        "id": "marker-i9tbqbyk0",
+        "marker-color": "#f86767",
+        "marker-size": "large",
+        "marker-symbol": "",
+        "title": "CHEMOIL TERMINALS CORP"
+      },
+      "geometry": {
+        "coordinates": [
+          -118.22565,
+          33.80542
+        ],
+        "type": "Point"
+      },
+      "id": "ci9tbxv22013gi9lv6g25up2p"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Chemicals": false,
+        "Class": "Low",
+        "Description": "Rank 4 of 23  Within Petroleum Bulk Industry<br><a>Click here for additional details.</a>",
+        "Fabricated Metals": false,
+        "Industry": "Petroleum Bulk Industry",
+        "Name": "TESORO EAST HYNES TERMINAL",
+        "Petroleum": false,
+        "Petroleum Bulk": true,
+        "Primary Metals": false,
+        "TRIF ID": "90805RCPRD5905P",
+        "description": "Toxicity is 4th Highest of 23  Within Petroleum Bulk Industry<br><a>Click here for additional details.</a>",
+        "id": "marker-i9tbqbyk3",
+        "marker-color": "#f1f075",
+        "marker-size": "small",
+        "marker-symbol": "",
+        "title": "TESORO EAST HYNES TERMINAL"
+      },
+      "geometry": {
+        "coordinates": [
+          -118.159907,
+          33.862158
+        ],
+        "type": "Point"
+      },
+      "id": "ci9tbxv24013hi9lvhlldqjh7"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Chemicals": false,
+        "Class": "Low",
+        "Description": "Rank 5 of 23  Within Petroleum Bulk Industry<br><a>Click here for additional details.</a>",
+        "Fabricated Metals": false,
+        "Industry": "Petroleum Bulk Industry",
+        "Name": "TESORO MARINE TERMINAL 2",
+        "Petroleum": false,
+        "Petroleum Bulk": true,
+        "Primary Metals": false,
+        "TRIF ID": "90813RCPRD1300P",
+        "description": "Toxicity is 5th Highest of 23  Within Petroleum Bulk Industry<br><a>Click here for additional details.</a>",
+        "id": "marker-i9tbqbyk4",
+        "marker-color": "#f1f075",
+        "marker-size": "small",
+        "marker-symbol": "",
+        "title": "TESORO MARINE TERMINAL 2"
+      },
+      "geometry": {
+        "coordinates": [
+          -118.209604,
+          33.777718
+        ],
+        "type": "Point"
+      },
+      "id": "ci9tbxv25013ii9lvgba853x5"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Chemicals": false,
+        "Class": "Low",
+        "Description": "Rank 6 of 23 Within Petroleum Bulk Industry<br><a>Click here for additional details.</a>",
+        "Fabricated Metals": false,
+        "Industry": "Petroleum Bulk Industry",
+        "Name": "PHILLIPS 66 LOS ANGELES TERMINAL",
+        "Petroleum": false,
+        "Petroleum Bulk": true,
+        "Primary Metals": false,
+        "TRIF ID": "90061TSCLS13500",
+        "description": "Toxicity is 6th Highest of 23 Within Petroleum Bulk Industry<br><a>Click here for additional details.</a>",
+        "id": "marker-i9tbqbyl5",
+        "marker-color": "#f1f075",
+        "marker-size": "small",
+        "marker-symbol": "",
+        "title": "PHILLIPS 66 LOS ANGELES TERMINAL"
+      },
+      "geometry": {
+        "coordinates": [
+          -118.27841,
+          33.90916
+        ],
+        "type": "Point"
+      },
+      "id": "ci9tbxv26013ji9lv49jpjrph"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Chemicals": false,
+        "Class": "Low",
+        "Description": "Rank 7 of 23  Within Petroleum Bulk Industry<br><a>Click here for additional details.</a>",
+        "Fabricated Metals": false,
+        "Industry": "Petroleum Bulk Industry",
+        "Name": "EQUILON MORMON ISLAND TERMINAL",
+        "Petroleum": false,
+        "Petroleum Bulk": true,
+        "Primary Metals": false,
+        "TRIF ID": "90744SHLLLBERTH",
+        "description": "Toxicity is 7th Highest of 23  Within Petroleum Bulk Industry<br><a>Click here for additional details.</a>",
+        "id": "marker-i9tbqbyl6",
+        "marker-color": "#f1f075",
+        "marker-size": "small",
+        "marker-symbol": "",
+        "title": "EQUILON MORMON ISLAND TERMINAL"
+      },
+      "geometry": {
+        "coordinates": [
+          -118.267571,
+          33.755574
+        ],
+        "type": "Point"
+      },
+      "id": "ci9tbxv28013ki9lvug8w60df"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Chemicals": false,
+        "Class": "Low",
+        "Description": "Rank 8 of 23  Within Petroleum Bulk Industry<br><a>Click here for additional details.</a>",
+        "Fabricated Metals": false,
+        "Industry": "Petroleum Bulk Industry",
+        "Name": "CHEVRON MONTEBELLO TERMINAL",
+        "Petroleum": false,
+        "Petroleum Bulk": true,
+        "Primary Metals": false,
+        "TRIF ID": "90640CHVRN601SV",
+        "description": "Toxicity is 8th Highest of 23  Within Petroleum Bulk Industry<br><a>Click here for additional details.</a>",
+        "id": "marker-i9tbqbyl7",
+        "marker-color": "#f1f075",
+        "marker-size": "small",
+        "marker-symbol": "",
+        "title": "CHEVRON MONTEBELLO TERMINAL"
+      },
+      "geometry": {
+        "coordinates": [
+          -118.12262,
+          34.00535
+        ],
+        "type": "Point"
+      },
+      "id": "ci9tbxv29013li9lvvdrnal6x"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Chemicals": false,
+        "Class": "Low",
+        "Description": "Rank 9 of 23 Within Industry<br><a>Click here for additional details.</a>",
+        "Fabricated Metals": false,
+        "Industry": "Petroleum Bulk Industry",
+        "Name": "EXXONMOBIL OIL CORP",
+        "Petroleum": false,
+        "Petroleum Bulk": true,
+        "Primary Metals": false,
+        "TRIF ID": "90058MBLLV2619E",
+        "description": "Toxicity is 9th Highest of 23 Within Industry<br><a>Click here for additional details.</a>",
+        "id": "marker-i9tbqbyl8",
+        "marker-color": "#f1f075",
+        "marker-size": "small",
+        "marker-symbol": "",
+        "title": "EXXONMOBIL OIL CORP"
+      },
+      "geometry": {
+        "coordinates": [
+          -118.22188,
+          34.00894
+        ],
+        "type": "Point"
+      },
+      "id": "ci9tbxv2a013mi9lv43eiljph"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Chemicals": false,
+        "Class": "Low",
+        "Description": "Rank 10 of 23  Within Petroleum Bulk Industry<br><a>Click here for additional details.</a>",
+        "Fabricated Metals": false,
+        "Industry": "Petroleum Bulk Industry",
+        "Name": "TESORO VINVALE TERMINAL",
+        "Petroleum": false,
+        "Petroleum Bulk": true,
+        "Primary Metals": false,
+        "TRIF ID": "90280RCPRD8601S",
+        "description": "Toxicity is 10th Highest of 23  Within Petroleum Bulk Industry<br><a>Click here for additional details.</a>",
+        "id": "marker-i9tbqbyl9",
+        "marker-color": "#f1f075",
+        "marker-size": "small",
+        "marker-symbol": "",
+        "title": "TESORO VINVALE TERMINAL"
+      },
+      "geometry": {
+        "coordinates": [
+          -118.16408,
+          33.95277
+        ],
+        "type": "Point"
+      },
+      "id": "ci9tbxv2c013ni9lvgtauo3lq"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Chemicals": false,
+        "Class": "Low",
+        "Description": "Rank 11 of 23  Within Petroleum Bulk Industry<br><a>Click here for additional details.</a>",
+        "Fabricated Metals": false,
+        "Industry": "Petroleum Bulk Industry",
+        "Name": "TESORO HATHAWAY TERMINAL",
+        "Petroleum": false,
+        "Petroleum Bulk": true,
+        "Primary Metals": false,
+        "TRIF ID": "90806DGNGT2350H",
+        "description": "Toxicity is 11th Highest of 23  Within Petroleum Bulk Industry<br><a>Click here for additional details.</a>",
+        "id": "marker-i9tbqbyla",
+        "marker-color": "#f1f075",
+        "marker-size": "small",
+        "marker-symbol": "",
+        "title": "TESORO HATHAWAY TERMINAL"
+      },
+      "geometry": {
+        "coordinates": [
+          -118.155711,
+          33.79961
+        ],
+        "type": "Point"
+      },
+      "id": "ci9tbxv2d013oi9lvuawgh4g2"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Chemicals": false,
+        "Class": "Low",
+        "Description": "Rank 12 of 23  Within Petroleum Bulk Industry<br><a>Click here for additional details.</a>",
+        "Fabricated Metals": false,
+        "Industry": "Petroleum Bulk Industry",
+        "Name": "PETRODIAMOND TERMINAL CO",
+        "Petroleum": false,
+        "Petroleum Bulk": true,
+        "Primary Metals": false,
+        "TRIF ID": "90813PTRDM1920L",
+        "description": "Toxicity is 12th Highest of 23  Within Petroleum Bulk Industry<br><a>Click here for additional details.</a>",
+        "id": "marker-i9tbqbylb",
+        "marker-color": "#f1f075",
+        "marker-size": "small",
+        "marker-symbol": "",
+        "title": "PETRODIAMOND TERMINAL CO"
+      },
+      "geometry": {
+        "coordinates": [
+          -118.219417,
+          33.776667
+        ],
+        "type": "Point"
+      },
+      "id": "ci9tbxv2e013pi9lvcbrsrcfq"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Chemicals": false,
+        "Class": "Low",
+        "Description": "Rank 13 of 23  Within Petroleum Bulk Industry<br><a>Click here for additional details.</a>",
+        "Fabricated Metals": false,
+        "Industry": "Petroleum Bulk Industry",
+        "Name": "TESORO WILMINGTON SALES TERMINAL",
+        "Petroleum": false,
+        "Petroleum Bulk": true,
+        "Primary Metals": false,
+        "TRIF ID": "90744TXCRF1926C",
+        "description": "Toxicity is 13th Highest of 23  Within Petroleum Bulk Industry<br><a>Click here for additional details.</a>",
+        "id": "marker-i9tbqbylc",
+        "marker-color": "#f1f075",
+        "marker-size": "small",
+        "marker-symbol": "",
+        "title": "TESORO WILMINGTON SALES TERMINAL"
+      },
+      "geometry": {
+        "coordinates": [
+          -118.238698,
+          33.791416
+        ],
+        "type": "Point"
+      },
+      "id": "ci9tbxv2g013qi9lv22hbmv4b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Chemicals": false,
+        "Class": "Low",
+        "Description": "Rank 14 of 23 Within Petroleum Bulk Industry<br><a>Click here for additional details.</a>",
+        "Fabricated Metals": false,
+        "Industry": "Petroleum Bulk Industry",
+        "Name": "CHEVRON VAN NUYS TERMINAL",
+        "Petroleum": false,
+        "Petroleum Bulk": true,
+        "Primary Metals": false,
+        "TRIF ID": "91411VNNYS15359",
+        "description": "Toxicity is 14th Highest of 23 Within Petroleum Bulk Industry<br><a>Click here for additional details.</a>",
+        "id": "marker-i9tbqbyld",
+        "marker-color": "#f1f075",
+        "marker-size": "small",
+        "marker-symbol": "",
+        "title": "CHEVRON VAN NUYS TERMINAL"
+      },
+      "geometry": {
+        "coordinates": [
+          -118.46833,
+          34.17938
+        ],
+        "type": "Point"
+      },
+      "id": "ci9tbxv2h013ri9lv0wvd5wpn"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Chemicals": false,
+        "Class": "Low",
+        "Description": "Rank 15 of 23  Within Petroleum Bulk Industry<br><a>Click here for additional details.</a>",
+        "Fabricated Metals": false,
+        "Industry": "Petroleum Bulk Industry",
+        "Name": "BP WEST COAST PRODUCTS LLC CARSON BP CARSON REFINERY",
+        "Petroleum": false,
+        "Petroleum Bulk": true,
+        "Primary Metals": false,
+        "TRIF ID": "90749RCPRD1801E",
+        "description": "Toxicity is 15th Highest of 23  Within Petroleum Bulk Industry<br><a>Click here for additional details.</a>",
+        "id": "marker-i9tbqbyle",
+        "marker-color": "#f1f075",
+        "marker-size": "small",
+        "marker-symbol": "",
+        "title": "BP WEST COAST PRODUCTS LLC CARSON BP CARSON REFINERY"
+      },
+      "geometry": {
+        "coordinates": [
+          -118.24298,
+          33.81323
+        ],
+        "type": "Point"
+      },
+      "id": "ci9tbxv2i013si9lv776xr4k9"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Chemicals": false,
+        "Class": "Low",
+        "Description": "Rank 16 of 23 Within Petroleum Bulk Industry<br><a>Click here for additional details.</a>",
+        "Fabricated Metals": false,
+        "Industry": "Petroleum Bulk Industry",
+        "Name": "RIBOST TERMINAL LLC",
+        "Petroleum": false,
+        "Petroleum Bulk": true,
+        "Primary Metals": false,
+        "TRIF ID": "90813RBSTT145WP",
+        "description": "Toxicity is 16th Highest of 23 Within Petroleum Bulk Industry<br><a>Click here for additional details.</a>",
+        "id": "marker-i9tbqbylf",
+        "marker-color": "#f1f075",
+        "marker-size": "small",
+        "marker-symbol": "",
+        "title": "RIBOST TERMINAL LLC"
+      },
+      "geometry": {
+        "coordinates": [
+          -118.210779,
+          33.77398
+        ],
+        "type": "Point"
+      },
+      "id": "ci9tbxv2j013ti9lv6o4yupar"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Chemicals": false,
+        "Class": "Low",
+        "Description": "Rank 17 of 23 Within Petroleum Bulk Industry<br><a>Click here for additional details.</a>",
+        "Fabricated Metals": false,
+        "Industry": "Petroleum Bulk Industry",
+        "Name": "PHILLIPS 66 LOS ANGELES REFINERY MARINE TERMINAL",
+        "Petroleum": false,
+        "Petroleum Bulk": true,
+        "Primary Metals": false,
+        "TRIF ID": "90744TSCRF150PI",
+        "description": "Toxicity is 17th Highest of 23 Within Petroleum Bulk Industry<br><a>Click here for additional details.</a>",
+        "id": "marker-i9tbqbylg",
+        "marker-color": "#f1f075",
+        "marker-size": "small",
+        "marker-symbol": "",
+        "title": "PHILLIPS 66 LOS ANGELES REFINERY MARINE TERMINAL"
+      },
+      "geometry": {
+        "coordinates": [
+          -118.272222,
+          33.755833
+        ],
+        "type": "Point"
+      },
+      "id": "ci9tbxv2l013ui9lv964y1nfy"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Chemicals": false,
+        "Class": "Low",
+        "Description": "Rank 18 of 23 Within Petroleum Bulk Industry<br><a>Click here for additional details.</a>",
+        "Fabricated Metals": false,
+        "Industry": "Petroleum Bulk Industry",
+        "Name": "COSBY OIL CO INC",
+        "Petroleum": false,
+        "Petroleum Bulk": true,
+        "Primary Metals": false,
+        "TRIF ID": "90670CSBYL1292E",
+        "description": "Toxicity is 18th Highest of 23 Within Petroleum Bulk Industry<br><a>Click here for additional details.</a>",
+        "id": "marker-i9tbqbylh",
+        "marker-color": "#f1f075",
+        "marker-size": "small",
+        "marker-symbol": "",
+        "title": "COSBY OIL CO INC"
+      },
+      "geometry": {
+        "coordinates": [
+          -118.05732,
+          33.94042
+        ],
+        "type": "Point"
+      },
+      "id": "ci9tbxv2m013vi9lvinzpbinw"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Chemicals": false,
+        "Class": "Low",
+        "Description": "Rank 19 of 23 Within Petroleum Bulk Industry<br><a>Click here for additional details.</a>",
+        "Fabricated Metals": false,
+        "Industry": "Petroleum Bulk Industry",
+        "Name": "TESORO MARINE TERMINAL 3",
+        "Petroleum": false,
+        "Petroleum Bulk": true,
+        "Primary Metals": false,
+        "TRIF ID": "90813RCPRD1400P",
+        "description": "Toxicity is 19th Highest of 23 Within Petroleum Bulk Industry<br><a>Click here for additional details.</a>",
+        "id": "marker-i9tbqbyli",
+        "marker-color": "#f1f075",
+        "marker-size": "small",
+        "marker-symbol": "",
+        "title": "TESORO MARINE TERMINAL 3"
+      },
+      "geometry": {
+        "coordinates": [
+          -118.212077,
+          33.773273
+        ],
+        "type": "Point"
+      },
+      "id": "ci9tbxv2n013wi9lvxa9vwjax"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Chemicals": false,
+        "Class": "Low",
+        "Description": "Rank 20 of 23 Within Petroleum Bulk Industry<br><a>Click here for additional details.</a>",
+        "Fabricated Metals": false,
+        "Industry": "Petroleum Bulk Industry",
+        "Name": "US DOD DFSP SAN PEDRO",
+        "Petroleum": false,
+        "Petroleum Bulk": true,
+        "Primary Metals": false,
+        "TRIF ID": "90731SDFNS3171G",
+        "description": "Toxicity is 20th Highest of 23 Within Petroleum Bulk Industry<br><a>Click here for additional details.</a>",
+        "id": "marker-i9tbqbylj",
+        "marker-color": "#f1f075",
+        "marker-size": "small",
+        "marker-symbol": "",
+        "title": "US DOD DFSP SAN PEDRO"
+      },
+      "geometry": {
+        "coordinates": [
+          -118.296725,
+          33.780873
+        ],
+        "type": "Point"
+      },
+      "id": "ci9tbxv2p013xi9lv3sc0p354"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Chemicals": false,
+        "Class": "Low",
+        "Description": "Rank 21 of 23 Within Petroleum Bulk Industry<br><a>Click here for additional details.</a>",
+        "Fabricated Metals": false,
+        "Industry": "Petroleum Bulk Industry",
+        "Name": "JANKOVICH CO SAN PEDRO MARINE",
+        "Petroleum": false,
+        "Petroleum Bulk": true,
+        "Primary Metals": false,
+        "TRIF ID": "90731JNKVCBERTH",
+        "description": "Toxicity is 21st Highest of 23 Within Petroleum Bulk Industry<br><a>Click here for additional details.</a>",
+        "id": "marker-i9tbqbylk",
+        "marker-color": "#f1f075",
+        "marker-size": "small",
+        "marker-symbol": "",
+        "title": "JANKOVICH CO SAN PEDRO MARINE"
+      },
+      "geometry": {
+        "coordinates": [
+          -118.26722,
+          33.73833
+        ],
+        "type": "Point"
+      },
+      "id": "ci9tbxv2q013yi9lvexeuzdby"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Chemicals": false,
+        "Class": "Low",
+        "Description": "Rank 22 of 23 Within Petroleum Bulk Industry<br><a>Click here for additional details.</a>",
+        "Fabricated Metals": false,
+        "Industry": "Petroleum Bulk Industry",
+        "Name": "JANKOVICH CO PARAMOUNT FACILTY",
+        "Petroleum": false,
+        "Petroleum Bulk": true,
+        "Primary Metals": false,
+        "TRIF ID": "90723WSTRN14066",
+        "description": "Toxicity is 22nd Highest of 23 Within Petroleum Bulk Industry<br><a>Click here for additional details.</a>",
+        "id": "marker-i9tbqbyll",
+        "marker-color": "#f1f075",
+        "marker-size": "small",
+        "marker-symbol": "",
+        "title": "JANKOVICH CO PARAMOUNT FACILTY"
+      },
+      "geometry": {
+        "coordinates": [
+          -118.16889,
+          33.90574
+        ],
+        "type": "Point"
+      },
+      "id": "ci9tbxv2r013zi9lvey69l5rm"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Chemicals": false,
+        "Class": "Low",
+        "Description": "Rank 23 of 23 Within Petroleum Bulk Industry<br><a>Click here for additional details.</a>",
+        "Fabricated Metals": false,
+        "Industry": "Petroleum Bulk Industry",
+        "Name": "TESORO LONG BEACH TERMINAL",
+        "Petroleum": false,
+        "Petroleum Bulk": true,
+        "Primary Metals": false,
+        "TRIF ID": "90813TXCRF2050E",
+        "description": "Toxicity is 23rd Highest of 23 Within Petroleum Bulk Industry<br><a>Click here for additional details.</a>",
+        "id": "marker-i9tbqbylm",
+        "marker-color": "#f1f075",
+        "marker-size": "small",
+        "marker-symbol": "",
+        "title": "TESORO LONG BEACH TERMINAL"
+      },
+      "geometry": {
+        "coordinates": [
+          -118.223101,
+          33.772678
+        ],
+        "type": "Point"
+      },
+      "id": "ci9tbxv2t0140i9lv7osgock6"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Chemicals": false,
+        "Class": "Low",
+        "Description": "Rank 3 of 23  Within Petroleum Bulk Industry<br><a>Click here for additional details.</a>",
+        "Fabricated Metals": false,
+        "Industry": "Petroleum Bulk Industry",
+        "Name": "EQUILON CARSON TERMINAL",
+        "Petroleum": false,
+        "Petroleum Bulk": true,
+        "Primary Metals": false,
+        "TRIF ID": "90745SHLLL20945",
+        "description": "Toxicity is 3rd Highest of 23  Within Petroleum Bulk Industry<br><a>Click here for additional details.</a>",
+        "id": "marker-i9tbqbyk2",
+        "marker-color": "#f1f075",
+        "marker-size": "small",
+        "marker-symbol": "",
+        "title": "EQUILON CARSON TERMINAL"
+      },
+      "geometry": {
+        "coordinates": [
+          -118.23673,
+          33.83937
+        ],
+        "type": "Point"
+      },
+      "id": "ci9tbxv2u0141i9lv7u4soi1b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Chemicals": false,
+        "Class": "High",
+        "Description": "Rank 2 of 16 Within Petroleum Industry<br><a>Click here for additional details.</a>",
+        "Fabricated Metals": false,
+        "Industry": "Petroleum",
+        "Name": "CHEVRON PRODUCTS CO DIV OF CHEVRON USA INC",
+        "Petroleum": true,
+        "Petroleum Bulk": false,
+        "Primary Metals": false,
+        "TRIF ID": "90245CHVRN324WE",
+        "description": "Toxicity is 2nd Highest of 16 Within Petroleum Industry<br><a>Click here for additional details.</a>",
+        "id": "marker-i9tbr4oao",
+        "marker-color": "#f86767",
+        "marker-size": "large",
+        "marker-symbol": "",
+        "title": "CHEVRON PRODUCTS CO DIV OF CHEVRON USA INC"
+      },
+      "geometry": {
+        "coordinates": [
+          -118.41074,
+          33.908126
+        ],
+        "type": "Point"
+      },
+      "id": "ci9tbxv2v0142i9lv196647z3"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Chemicals": false,
+        "Class": "Low",
+        "Description": "Rank 12 of 16 Within Petroleum Industry<br><a>Click here for additional details.</a>",
+        "Fabricated Metals": false,
+        "Industry": "Petroleum",
+        "Name": "OWENS CORNING ROOFING & ASPHALT LLC",
+        "Petroleum": true,
+        "Petroleum Bulk": false,
+        "Primary Metals": false,
+        "TRIF ID": "90224WNSCR1501N",
+        "description": "Toxicity is 12th Highest of 16 Within Petroleum Industry<br><a>Click here for additional details.</a>",
+        "id": "marker-i9tbr4ocy",
+        "marker-color": "#f1f075",
+        "marker-size": "small",
+        "marker-symbol": "",
+        "title": "OWENS CORNING ROOFING & ASPHALT LLC"
+      },
+      "geometry": {
+        "coordinates": [
+          -118.22289,
+          33.90761
+        ],
+        "type": "Point"
+      },
+      "id": "ci9tbxv2w0143i9lvk87y0fjn"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Chemicals": false,
+        "Class": "High",
+        "Description": "Rank 4 of 16 Within Petroleum Industry<br><a>Click here for additional details.</a>",
+        "Fabricated Metals": false,
+        "Industry": "Petroleum",
+        "Name": "EXXONMOBIL OIL CORP - TORRANCE REFINERY",
+        "Petroleum": true,
+        "Petroleum Bulk": false,
+        "Primary Metals": false,
+        "TRIF ID": "90509MBLLC3700W",
+        "description": "Toxicity is 4th Highest of 16 Within Petroleum Industry<br><a>Click here for additional details.</a>",
+        "id": "marker-i9tbr4oaq",
+        "marker-color": "#f86767",
+        "marker-size": "large",
+        "marker-symbol": "",
+        "title": "EXXONMOBIL OIL CORP - TORRANCE REFINERY"
+      },
+      "geometry": {
+        "coordinates": [
+          -118.336907,
+          33.854967
+        ],
+        "type": "Point"
+      },
+      "id": "ci9tbxv2y0144i9lv9ll3unry"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Chemicals": false,
+        "Class": "High",
+        "Description": "Rank 5 of 16 Within Petroleum Industry<br><a>Click here for additional details.</a>",
+        "Fabricated Metals": false,
+        "Industry": "Petroleum",
+        "Name": "PHILLIPS 66 LOS ANGELES REFINERY CARSON PLANT",
+        "Petroleum": true,
+        "Petroleum Bulk": false,
+        "Primary Metals": false,
+        "TRIF ID": "90745NCLCR1520E",
+        "description": "Toxicity is 5th Highest of 16 Within Petroleum Industry<br><a>Click here for additional details.</a>",
+        "id": "marker-i9tbr4obr",
+        "marker-color": "#f86767",
+        "marker-size": "large",
+        "marker-symbol": "",
+        "title": "PHILLIPS 66 LOS ANGELES REFINERY CARSON PLANT"
+      },
+      "geometry": {
+        "coordinates": [
+          -118.2431,
+          33.8048
+        ],
+        "type": "Point"
+      },
+      "id": "ci9tbxv2z0145i9lvyz4ad5yl"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Chemicals": false,
+        "Class": "High",
+        "Description": "Rank 6 of 16 Within Petroleum Industry<br><a>Click here for additional details.</a>",
+        "Fabricated Metals": false,
+        "Industry": "Petroleum",
+        "Name": "TESORO LOS ANGELES REFINERY - CALCINER OPERATIONS",
+        "Petroleum": true,
+        "Petroleum Bulk": false,
+        "Primary Metals": false,
+        "TRIF ID": "90748RCCQC1175C",
+        "description": "Toxicity is 6th Highest of 16 Within Petroleum Industry<br><a>Click here for additional details.</a>",
+        "id": "marker-i9tbr4obs",
+        "marker-color": "#f86767",
+        "marker-size": "large",
+        "marker-symbol": "",
+        "title": "TESORO LOS ANGELES REFINERY - CALCINER OPERATIONS"
+      },
+      "geometry": {
+        "coordinates": [
+          -118.2279,
+          33.7762
+        ],
+        "type": "Point"
+      },
+      "id": "ci9tbxv300146i9lvop0t9mwz"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Chemicals": false,
+        "Class": "Medium",
+        "Description": "Rank 7 of 16 Within Petroleum Industry<br><a>Click here for additional details.</a>",
+        "Fabricated Metals": false,
+        "Industry": "Petroleum",
+        "Name": "LUNDAY-THAGARD CO",
+        "Petroleum": true,
+        "Petroleum Bulk": false,
+        "Primary Metals": false,
+        "TRIF ID": "90280LNDYT9301S",
+        "description": "Toxicity is 7th Highest of 16 Within Petroleum Industry<br><a>Click here for additional details.</a>",
+        "id": "marker-i9tbr4obt",
+        "marker-color": "#f5c272",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "LUNDAY-THAGARD CO"
+      },
+      "geometry": {
+        "coordinates": [
+          -118.16704,
+          33.946295
+        ],
+        "type": "Point"
+      },
+      "id": "ci9tbxv320147i9lvpy55w083"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Chemicals": false,
+        "Class": "Medium",
+        "Description": "Rank 8 of 16 Within Petroleum Industry<br><a>Click here for additional details.</a>",
+        "Fabricated Metals": false,
+        "Industry": "Petroleum",
+        "Name": "PHILLIPS 66 LOS ANGELES REFINERY WILMINGTON PLANT",
+        "Petroleum": true,
+        "Petroleum Bulk": false,
+        "Primary Metals": false,
+        "TRIF ID": "90748NCLLS1660W",
+        "description": "Toxicity is 8th Highest of 16 Within Petroleum Industry<br><a>Click here for additional details.</a>",
+        "id": "marker-i9tbr4ocu",
+        "marker-color": "#f5c272",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "PHILLIPS 66 LOS ANGELES REFINERY WILMINGTON PLANT"
+      },
+      "geometry": {
+        "coordinates": [
+          -118.290696,
+          33.774469
+        ],
+        "type": "Point"
+      },
+      "id": "ci9tbxv330148i9lv5abhdbbn"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Chemicals": false,
+        "Class": "Low",
+        "Description": "Rank 9 of 16 Within Petroleum Industry<br><a>Click here for additional details.</a>",
+        "Fabricated Metals": false,
+        "Industry": "Petroleum",
+        "Name": "ULTRAMAR INC MARINE TERMINAL",
+        "Petroleum": true,
+        "Petroleum Bulk": false,
+        "Primary Metals": false,
+        "TRIF ID": "90744LTRMR961LA",
+        "description": "Toxicity is 9th Highest of 16 Within Petroleum Industry<br><a>Click here for additional details.</a>",
+        "id": "marker-i9tbr4ocv",
+        "marker-color": "#f1f075",
+        "marker-size": "small",
+        "marker-symbol": "",
+        "title": "ULTRAMAR INC MARINE TERMINAL"
+      },
+      "geometry": {
+        "coordinates": [
+          -118.26676,
+          33.75828
+        ],
+        "type": "Point"
+      },
+      "id": "ci9tbxv340149i9lvantxx1n0"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Chemicals": false,
+        "Class": "Low",
+        "Description": "Rank 10 of 16 Within Petroleum Industry<br><a>Click here for additional details.</a>",
+        "Fabricated Metals": false,
+        "Industry": "Petroleum",
+        "Name": "PENNZOIL-QUAKER STATE CO (DBA SOPUS PRODUCTS LALP)",
+        "Petroleum": true,
+        "Petroleum Bulk": false,
+        "Primary Metals": false,
+        "TRIF ID": "90744TXCRF1926E",
+        "description": "Toxicity is 10th Highest of 16 Within Petroleum Industry<br><a>Click here for additional details.</a>",
+        "id": "marker-i9tbr4ocw",
+        "marker-color": "#f1f075",
+        "marker-size": "small",
+        "marker-symbol": "",
+        "title": "PENNZOIL-QUAKER STATE CO (DBA SOPUS PRODUCTS LALP)"
+      },
+      "geometry": {
+        "coordinates": [
+          -118.238698,
+          33.791416
+        ],
+        "type": "Point"
+      },
+      "id": "ci9tbxv36014ai9lv9dat4yfo"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Chemicals": false,
+        "Class": "Low",
+        "Description": "Rank 11 of 16 Within Petroleum Industry<br><a>Click here for additional details.</a>",
+        "Fabricated Metals": false,
+        "Industry": "Petroleum",
+        "Name": "GS ROOFING CO INC (DBA CERTAINTEED)",
+        "Petroleum": true,
+        "Petroleum Bulk": false,
+        "Primary Metals": false,
+        "TRIF ID": "90744GSRFN1431W",
+        "description": "Toxicity is 11th Highest of 16 Within Petroleum Industry<br><a>Click here for additional details.</a>",
+        "id": "marker-i9tbr4ocx",
+        "marker-color": "#f1f075",
+        "marker-size": "small",
+        "marker-symbol": "",
+        "title": "GS ROOFING CO INC (DBA CERTAINTEED)"
+      },
+      "geometry": {
+        "coordinates": [
+          -118.280514,
+          33.774648
+        ],
+        "type": "Point"
+      },
+      "id": "ci9tbxv37014bi9lvs97nhzar"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Chemicals": false,
+        "Class": "High",
+        "Description": "Rank 1 of 16 Within Petroleum Industry<br><a>Click here for additional details.</a>",
+        "Fabricated Metals": false,
+        "Industry": "Petroleum",
+        "Name": "ULTRAMAR INC WILMINGTON REFINERY",
+        "Petroleum": true,
+        "Petroleum Bulk": false,
+        "Primary Metals": false,
+        "TRIF ID": "90748NNPCF2402E",
+        "description": "Toxicity is 1st Highest of 16 Within Petroleum Industry<br><a>Click here for additional details.</a>",
+        "id": "marker-i9tbr4oan",
+        "marker-color": "#f86767",
+        "marker-size": "large",
+        "marker-symbol": "",
+        "title": "ULTRAMAR INC WILMINGTON REFINERY"
+      },
+      "geometry": {
+        "coordinates": [
+          -118.2351,
+          33.7783
+        ],
+        "type": "Point"
+      },
+      "id": "ci9tbxv38014ci9lvdvqmrnbt"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Chemicals": false,
+        "Class": "Low",
+        "Description": "Rank 13 of 16 Within Petroleum Industry<br><a>Click here for additional details.</a>",
+        "Fabricated Metals": false,
+        "Industry": "Petroleum",
+        "Name": "BP WEST COAST PRODUCTS LLC CARSON BP CARSON REFINERY",
+        "Petroleum": true,
+        "Petroleum Bulk": false,
+        "Primary Metals": false,
+        "TRIF ID": "90749RCPRD1801E",
+        "description": "Toxicity is 13th Highest of 16 Within Petroleum Industry<br><a>Click here for additional details.</a>",
+        "id": "marker-i9tbr4ofz",
+        "marker-color": "#f1f075",
+        "marker-size": "small",
+        "marker-symbol": "",
+        "title": "BP WEST COAST PRODUCTS LLC CARSON BP CARSON REFINERY"
+      },
+      "geometry": {
+        "coordinates": [
+          -118.24298,
+          33.81323
+        ],
+        "type": "Point"
+      },
+      "id": "ci9tbxv39014di9lvws40kwd9"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Chemicals": false,
+        "Class": "Low",
+        "Description": "Rank 14 of 16 Within Petroleum Industry<br><a>Click here for additional details.</a>",
+        "Fabricated Metals": false,
+        "Industry": "Petroleum",
+        "Name": "ASPHALT PRODUCTS OIL CORP",
+        "Petroleum": true,
+        "Petroleum Bulk": false,
+        "Primary Metals": false,
+        "TRIF ID": "90808SPHLT5903P",
+        "description": "Toxicity is 14th Highest of 16 Within Petroleum Industry<br><a>Click here for additional details.</a>",
+        "id": "marker-i9tbr4of10",
+        "marker-color": "#f1f075",
+        "marker-size": "small",
+        "marker-symbol": "",
+        "title": "ASPHALT PRODUCTS OIL CORP"
+      },
+      "geometry": {
+        "coordinates": [
+          -118.159904,
+          33.861688
+        ],
+        "type": "Point"
+      },
+      "id": "ci9tbxv3b014ei9lvk81hk8bx"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Chemicals": false,
+        "Class": "Low",
+        "Description": "Rank 15 of 16 Within Petroleum Industry<br><a>Click here for additional details.</a>",
+        "Fabricated Metals": false,
+        "Industry": "Petroleum",
+        "Name": "VALERO WILMINGTON ASPHALT PLANT",
+        "Petroleum": true,
+        "Petroleum Bulk": false,
+        "Primary Metals": false,
+        "TRIF ID": "90744HNTWY1651A",
+        "description": "Toxicity is 15th Highest of 16 Within Petroleum Industry<br><a>Click here for additional details.</a>",
+        "id": "marker-i9tbr4of11",
+        "marker-color": "#f1f075",
+        "marker-size": "small",
+        "marker-symbol": "",
+        "title": "VALERO WILMINGTON ASPHALT PLANT"
+      },
+      "geometry": {
+        "coordinates": [
+          -118.23971,
+          33.79699
+        ],
+        "type": "Point"
+      },
+      "id": "ci9tbxv3c014fi9lvll8dzpbv"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Chemicals": false,
+        "Class": "Low",
+        "Description": "Rank 16 of 16 Within Petroleum Industry<br><a>Click here for additional details.</a>",
+        "Fabricated Metals": false,
+        "Industry": "Petroleum",
+        "Name": "DEMENNO/KERDOON INC",
+        "Petroleum": true,
+        "Petroleum Bulk": false,
+        "Primary Metals": false,
+        "TRIF ID": "90222DMNNK2000N",
+        "description": "Toxicity is 16th Highest of 16 Within Petroleum Industry<br><a>Click here for additional details.</a>",
+        "id": "marker-i9tbr4og12",
+        "marker-color": "#f1f075",
+        "marker-size": "small",
+        "marker-symbol": "",
+        "title": "DEMENNO/KERDOON INC"
+      },
+      "geometry": {
+        "coordinates": [
+          -118.22196,
+          33.90919
+        ],
+        "type": "Point"
+      },
+      "id": "ci9tbxv3d014gi9lvfml609p1"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Chemicals": false,
+        "Class": "High",
+        "Description": "Rank 3 of 16 Within Petroleum Industry<br><a>Click here for additional details.</a>",
+        "Fabricated Metals": false,
+        "Industry": "Petroleum",
+        "Name": "EDGINGTON OIL CO",
+        "Petroleum": true,
+        "Petroleum Bulk": false,
+        "Primary Metals": false,
+        "TRIF ID": "90805DGNGT2400E",
+        "description": "Toxicity is 3rd Highest of 16 Within Petroleum Industry<br><a>Click here for additional details.</a>",
+        "id": "marker-i9tbr4oap",
+        "marker-color": "#f86767",
+        "marker-size": "large",
+        "marker-symbol": "",
+        "title": "EDGINGTON OIL CO"
+      },
+      "geometry": {
+        "coordinates": [
+          -118.16412,
+          33.87461
+        ],
+        "type": "Point"
+      },
+      "id": "ci9tbxv3f014hi9lvoawb40rd"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Chemicals": false,
+        "Class": "High",
+        "Description": "Rank 2 of 27 Within Primary Metals Industry<br><a>Click here for additional details.</a>",
+        "Fabricated Metals": false,
+        "Industry": "Primary Metals",
+        "Name": "MILLER CASTINGS INC",
+        "Petroleum": false,
+        "Petroleum Bulk": false,
+        "Primary Metals": true,
+        "TRIF ID": "9060WMLLRC253PA",
+        "description": "Toxicity is 2nd Highest of 27 Within Primary Metals Industry<br><a>Click here for additional details.</a>",
+        "id": "marker-i9tbrocd14",
+        "marker-color": "#f86767",
+        "marker-size": "large",
+        "marker-symbol": "",
+        "title": "MILLER CASTINGS INC"
+      },
+      "geometry": {
+        "coordinates": [
+          -118.03936,
+          34.02973
+        ],
+        "type": "Point"
+      },
+      "id": "ci9tbxv3g014ii9lvmd3715ft"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Chemicals": false,
+        "Class": "High",
+        "Description": "Rank 1 of 27 Within Primary Metals Industry<br><a>Click here for additional details.</a>",
+        "Fabricated Metals": false,
+        "Industry": "Primary Metals",
+        "Name": "CERTIFIED ALLOY PRODUCTS INC",
+        "Petroleum": false,
+        "Petroleum Bulk": false,
+        "Primary Metals": true,
+        "TRIF ID": "90801CRTFD3245C",
+        "description": "Toxicity is 1st Highest of 27 Within Primary Metals Industry<br><a>Click here for additional details.</a>",
+        "id": "marker-i9tbrocc13",
+        "marker-color": "#f86767",
+        "marker-size": "large",
+        "marker-symbol": "",
+        "title": "CERTIFIED ALLOY PRODUCTS INC"
+      },
+      "geometry": {
+        "coordinates": [
+          -118.16763,
+          33.81568
+        ],
+        "type": "Point"
+      },
+      "id": "ci9tbxv3h014ji9lvm1clj00i"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Chemicals": false,
+        "Class": "High",
+        "Description": "Rank 3 of 27 Within Primary Metals Industry<br><a>Click here for additional details.</a>",
+        "Fabricated Metals": false,
+        "Industry": "Primary Metals",
+        "Name": "EXIDE TECHNOLOGIES",
+        "Petroleum": false,
+        "Petroleum Bulk": false,
+        "Primary Metals": true,
+        "TRIF ID": "90058GNBNC2717S",
+        "description": "Toxicity is 3rd Highest of 27 Within Primary Metals Industry<br><a>Click here for additional details.</a>",
+        "id": "marker-i9tbrocd15",
+        "marker-color": "#f86767",
+        "marker-size": "large",
+        "marker-symbol": "",
+        "title": "EXIDE TECHNOLOGIES"
+      },
+      "geometry": {
+        "coordinates": [
+          -118.19432,
+          34.00591
+        ],
+        "type": "Point"
+      },
+      "id": "ci9tbxv3i014ki9lv2lw3l1my"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Chemicals": false,
+        "Class": "Low",
+        "Description": "Rank 9 of 27 Within Primary Metals Industry<br><a>Click here for additional details.</a>",
+        "Fabricated Metals": false,
+        "Industry": "Primary Metals",
+        "Name": "STRATEGIC MATERIALS CORP",
+        "Petroleum": false,
+        "Petroleum Bulk": false,
+        "Primary Metals": true,
+        "TRIF ID": "90280STRTG8616T",
+        "description": "Toxicity is 9th Highest of 27 Within Primary Metals Industry<br><a>Click here for additional details.</a>",
+        "id": "marker-i9tbs1rz17",
+        "marker-color": "#f1f075",
+        "marker-size": "small",
+        "marker-symbol": "",
+        "title": "STRATEGIC MATERIALS CORP"
+      },
+      "geometry": {
+        "coordinates": [
+          -118.196121,
+          33.955888
+        ],
+        "type": "Point"
+      },
+      "id": "ci9tbxv3k014li9lv9fl41fhd"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Chemicals": false,
+        "Class": "Low",
+        "Description": "Rank 10 of 27 Within Primary Metals Industry<br><a>Click here for additional details.</a>",
+        "Fabricated Metals": false,
+        "Industry": "Primary Metals",
+        "Name": "WEST COAST FOUNDRY",
+        "Petroleum": false,
+        "Petroleum Bulk": false,
+        "Primary Metals": true,
+        "TRIF ID": "90255WSTCS245E5",
+        "description": "Toxicity is 10th Highest of 27 Within Primary Metals Industry<br><a>Click here for additional details.</a>",
+        "id": "marker-i9tbs1rz18",
+        "marker-color": "#f1f075",
+        "marker-size": "small",
+        "marker-symbol": "",
+        "title": "WEST COAST FOUNDRY"
+      },
+      "geometry": {
+        "coordinates": [
+          -118.22873,
+          33.99475
+        ],
+        "type": "Point"
+      },
+      "id": "ci9tbxv3l014mi9lvpmzn5f6s"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Chemicals": false,
+        "Class": "Low",
+        "Description": "Rank 11 of 27 Within Primary Metals Industry<br><a>Click here for additional details.</a>",
+        "Fabricated Metals": false,
+        "Industry": "Primary Metals",
+        "Name": "GLOBE IRON FOUNDRY",
+        "Petroleum": false,
+        "Petroleum Bulk": false,
+        "Primary Metals": true,
+        "TRIF ID": "90040GLBRN5649E",
+        "description": "Toxicity is 11th Highest of 27 Within Primary Metals Industry<br><a>Click here for additional details.</a>",
+        "id": "marker-i9tbs1s019",
+        "marker-color": "#f1f075",
+        "marker-size": "small",
+        "marker-symbol": "",
+        "title": "GLOBE IRON FOUNDRY"
+      },
+      "geometry": {
+        "coordinates": [
+          -118.16455,
+          33.97949
+        ],
+        "type": "Point"
+      },
+      "id": "ci9tbxv3m014ni9lva7t5pfno"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Chemicals": false,
+        "Class": "Low",
+        "Description": "Rank 12 of 27 Within Primary Metals Industry<br><a>Click here for additional details.</a>",
+        "Fabricated Metals": false,
+        "Industry": "Primary Metals",
+        "Name": "STRELITZ CO",
+        "Petroleum": false,
+        "Petroleum Bulk": false,
+        "Primary Metals": true,
+        "TRIF ID": "90011STRLT5800S",
+        "description": "Toxicity is 12th Highest of 27 Within Primary Metals Industry<br><a>Click here for additional details.</a>",
+        "id": "marker-i9tbs1s01a",
+        "marker-color": "#f1f075",
+        "marker-size": "small",
+        "marker-symbol": "",
+        "title": "STRELITZ CO"
+      },
+      "geometry": {
+        "coordinates": [
+          -118.27012,
+          33.9898
+        ],
+        "type": "Point"
+      },
+      "id": "ci9tbxv3o014oi9lvr169o6ls"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Chemicals": false,
+        "Class": "Low",
+        "Description": "Rank 13 of 27 Within Primary Metals Industry<br><a>Click here for additional details.</a>",
+        "Fabricated Metals": false,
+        "Industry": "Primary Metals",
+        "Name": "TECHNI-CAST CORP",
+        "Petroleum": false,
+        "Petroleum Bulk": false,
+        "Primary Metals": true,
+        "TRIF ID": "90280TCHNC11220",
+        "description": "Toxicity is 13th Highest of 27 Within Primary Metals Industry<br><a>Click here for additional details.</a>",
+        "id": "marker-i9tbs1s11b",
+        "marker-color": "#f1f075",
+        "marker-size": "small",
+        "marker-symbol": "",
+        "title": "TECHNI-CAST CORP"
+      },
+      "geometry": {
+        "coordinates": [
+          -118.16929,
+          33.92551
+        ],
+        "type": "Point"
+      },
+      "id": "ci9tbxv3p014pi9lvtb72kl6e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Chemicals": false,
+        "Class": "Low",
+        "Description": "Rank 14 of 27 Within Primary Metals Industry<br><a>Click here for additional details.</a>",
+        "Fabricated Metals": false,
+        "Industry": "Primary Metals",
+        "Name": "CONSOLIDATED FOUNDRIES POMONA",
+        "Petroleum": false,
+        "Petroleum Bulk": false,
+        "Primary Metals": true,
+        "TRIF ID": "91766TLDYN4200W",
+        "description": "Toxicity is 14th Highest of 27 Within Primary Metals Industry<br><a>Click here for additional details.</a>",
+        "id": "marker-i9tbs1s11c",
+        "marker-color": "#f1f075",
+        "marker-size": "small",
+        "marker-symbol": "",
+        "title": "CONSOLIDATED FOUNDRIES POMONA"
+      },
+      "geometry": {
+        "coordinates": [
+          -117.82493,
+          34.0353
+        ],
+        "type": "Point"
+      },
+      "id": "ci9tbxv3q014qi9lvk1ysojqh"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Chemicals": false,
+        "Class": "Low",
+        "Description": "Rank 15 of 27 Within Primary Metals Industry<br><a>Click here for additional details.</a>",
+        "Fabricated Metals": false,
+        "Industry": "Primary Metals",
+        "Name": "DAVIS WIRE CORP",
+        "Petroleum": false,
+        "Petroleum Bulk": false,
+        "Primary Metals": true,
+        "TRIF ID": "91706DVSWL5555I",
+        "description": "Toxicity is 15th Highest of 27 Within Primary Metals Industry<br><a>Click here for additional details.</a>",
+        "id": "marker-i9tbs1s31d",
+        "marker-color": "#f1f075",
+        "marker-size": "small",
+        "marker-symbol": "",
+        "title": "DAVIS WIRE CORP"
+      },
+      "geometry": {
+        "coordinates": [
+          -117.93412,
+          34.11151
+        ],
+        "type": "Point"
+      },
+      "id": "ci9tbxv3r014ri9lvrcp5cwqi"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Chemicals": false,
+        "Class": "Low",
+        "Description": "Rank 16 of 27 Within Primary Metals Industry<br><a>Click here for additional details.</a>",
+        "Fabricated Metals": false,
+        "Industry": "Primary Metals",
+        "Name": "LIGHT METALS INC",
+        "Petroleum": false,
+        "Petroleum Bulk": false,
+        "Primary Metals": true,
+        "TRIF ID": "91746LGHTM13329",
+        "description": "Toxicity is 16th Highest of 27 Within Primary Metals Industry<br><a>Click here for additional details.</a>",
+        "id": "marker-i9tbs1s31e",
+        "marker-color": "#f1f075",
+        "marker-size": "small",
+        "marker-symbol": "",
+        "title": "LIGHT METALS INC"
+      },
+      "geometry": {
+        "coordinates": [
+          -117.988,
+          34.057
+        ],
+        "type": "Point"
+      },
+      "id": "ci9tbxv3t014si9lvmigyvd3c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Chemicals": false,
+        "Class": "Low",
+        "Description": "Rank 17 of 27 Within Primary Metals Industry<br><a>Click here for additional details.</a>",
+        "Fabricated Metals": false,
+        "Industry": "Primary Metals",
+        "Name": "LIBERTY MANUFACTURING INC",
+        "Petroleum": false,
+        "Petroleum Bulk": false,
+        "Primary Metals": true,
+        "TRIF ID": "90021LBRTY2233E",
+        "description": "Toxicity is 17th Highest of 27 Within Primary Metals Industry<br><a>Click here for additional details.</a>",
+        "id": "marker-i9tbs1s31f",
+        "marker-color": "#f1f075",
+        "marker-size": "small",
+        "marker-symbol": "",
+        "title": "LIBERTY MANUFACTURING INC"
+      },
+      "geometry": {
+        "coordinates": [
+          -118.232605,
+          34.020274
+        ],
+        "type": "Point"
+      },
+      "id": "ci9tbxv3u014ti9lvw9pfvusk"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Chemicals": false,
+        "Class": "Low",
+        "Description": "Rank 18 of 27 Within Primary Metals Industry<br><a>Click here for additional details.</a>",
+        "Fabricated Metals": false,
+        "Industry": "Primary Metals",
+        "Name": "RANGERS DIE CASTING",
+        "Petroleum": false,
+        "Petroleum Bulk": false,
+        "Primary Metals": true,
+        "TRIF ID": "90262RNGRS10828",
+        "description": "Toxicity is 18th Highest of 27 Within Primary Metals Industry<br><a>Click here for additional details.</a>",
+        "id": "marker-i9tbs1s41g",
+        "marker-color": "#f1f075",
+        "marker-size": "small",
+        "marker-symbol": "",
+        "title": "RANGERS DIE CASTING"
+      },
+      "geometry": {
+        "coordinates": [
+          -118.22633,
+          33.93674
+        ],
+        "type": "Point"
+      },
+      "id": "ci9tbxv3v014ui9lvl7c4ddim"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Chemicals": false,
+        "Class": "Low",
+        "Description": "Rank 8 of 27 Within Primary Metals Industry<br><a>Click here for additional details.</a>",
+        "Fabricated Metals": false,
+        "Industry": "Primary Metals",
+        "Name": "PRECISION SPECIALTY METALS INC",
+        "Petroleum": false,
+        "Petroleum Bulk": false,
+        "Primary Metals": true,
+        "TRIF ID": "90063PRCSN3301M",
+        "description": "Toxicity is 8th Highest of 27 Within Primary Metals Industry<br><a>Click here for additional details.</a>",
+        "id": "marker-i9tbs1rz16",
+        "marker-color": "#f1f075",
+        "marker-size": "small",
+        "marker-symbol": "",
+        "title": "PRECISION SPECIALTY METALS INC"
+      },
+      "geometry": {
+        "coordinates": [
+          -118.19081,
+          34.06064
+        ],
+        "type": "Point"
+      },
+      "id": "ci9tbxv3x014vi9lvsc36kqbv"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Chemicals": false,
+        "Class": "Low",
+        "Description": "Rank 20 of 27 Within Primary Metals Industry<br><a>Click here for additional details.</a>",
+        "Fabricated Metals": false,
+        "Industry": "Primary Metals",
+        "Name": "MAJOR BRASS FOUNDRY INC",
+        "Petroleum": false,
+        "Petroleum Bulk": false,
+        "Primary Metals": true,
+        "TRIF ID": "90248MJRBR16206",
+        "description": "Toxicity is 20th Highest of 27 Within Primary Metals Industry<br><a>Click here for additional details.</a>",
+        "id": "marker-i9tbs1s41i",
+        "marker-color": "#f1f075",
+        "marker-size": "small",
+        "marker-symbol": "",
+        "title": "MAJOR BRASS FOUNDRY INC"
+      },
+      "geometry": {
+        "coordinates": [
+          -118.2759,
+          33.88441
+        ],
+        "type": "Point"
+      },
+      "id": "ci9tbxv3y014wi9lvz2d183n8"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Chemicals": false,
+        "Class": "Low",
+        "Description": "Rank 21 of 27 Within Primary Metals Industry<br><a>Click here for additional details.</a>",
+        "Fabricated Metals": false,
+        "Industry": "Primary Metals",
+        "Name": "KAISER ALUMINUM FABRICATED PRODUCTS LLC",
+        "Petroleum": false,
+        "Petroleum Bulk": false,
+        "Primary Metals": true,
+        "TRIF ID": "90040KSRLM6250E",
+        "description": "Toxicity is 21st Highest of 27 Within Primary Metals Industry<br><a>Click here for additional details.</a>",
+        "id": "marker-i9tbs1s51j",
+        "marker-color": "#f1f075",
+        "marker-size": "small",
+        "marker-symbol": "",
+        "title": "KAISER ALUMINUM FABRICATED PRODUCTS LLC"
+      },
+      "geometry": {
+        "coordinates": [
+          -118.14652,
+          33.98858
+        ],
+        "type": "Point"
+      },
+      "id": "ci9tbxv3z014xi9lvlkb8sjv1"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Chemicals": false,
+        "Class": "Low",
+        "Description": "Rank 22 of 27 Within Primary Metals Industry<br><a>Click here for additional details.</a>",
+        "Fabricated Metals": false,
+        "Industry": "Primary Metals",
+        "Name": "LOS ANGELES PUMP & VALVE",
+        "Petroleum": false,
+        "Petroleum Bulk": false,
+        "Primary Metals": true,
+        "TRIF ID": "90255LSNGL2529E",
+        "description": "Toxicity is 22nd Highest of 27 Within Primary Metals Industry<br><a>Click here for additional details.</a>",
+        "id": "marker-i9tbs1s51k",
+        "marker-color": "#f1f075",
+        "marker-size": "small",
+        "marker-symbol": "",
+        "title": "LOS ANGELES PUMP & VALVE"
+      },
+      "geometry": {
+        "coordinates": [
+          -118.2268,
+          33.99294
+        ],
+        "type": "Point"
+      },
+      "id": "ci9tbxv40014yi9lv0abpshkg"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Chemicals": false,
+        "Class": "Low",
+        "Description": "Rank 23 of 27 Within Primary Metals Industry<br><a>Click here for additional details.</a>",
+        "Fabricated Metals": false,
+        "Industry": "Primary Metals",
+        "Name": "METAL BRIQUITTING",
+        "Petroleum": false,
+        "Petroleum Bulk": false,
+        "Primary Metals": true,
+        "TRIF ID": "90011MTLBR5800S",
+        "description": "Toxicity is 23rd Highest of 27 Within Primary Metals Industry<br><a>Click here for additional details.</a>",
+        "id": "marker-i9tbs1s61l",
+        "marker-color": "#f1f075",
+        "marker-size": "small",
+        "marker-symbol": "",
+        "title": "METAL BRIQUITTING"
+      },
+      "geometry": {
+        "coordinates": [
+          -118.27012,
+          33.9898
+        ],
+        "type": "Point"
+      },
+      "id": "ci9tbxv42014zi9lvkhsrlckc"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Chemicals": false,
+        "Class": "Low",
+        "Description": "Rank 24 of 27 Within Primary Metals Industry<br><a>Click here for additional details.</a>",
+        "Fabricated Metals": false,
+        "Industry": "Primary Metals",
+        "Name": "GASSER/OLDS CO INC",
+        "Petroleum": false,
+        "Petroleum Bulk": false,
+        "Primary Metals": true,
+        "TRIF ID": "90058GSSRL2618F",
+        "description": "Toxicity is 24th Highest of 27 Within Primary Metals Industry<br><a>Click here for additional details.</a>",
+        "id": "marker-i9tbs1s61m",
+        "marker-color": "#f1f075",
+        "marker-size": "small",
+        "marker-symbol": "",
+        "title": "GASSER/OLDS CO INC"
+      },
+      "geometry": {
+        "coordinates": [
+          -118.224743,
+          33.996329
+        ],
+        "type": "Point"
+      },
+      "id": "ci9tbxv430150i9lv163n317i"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Chemicals": false,
+        "Class": "Low",
+        "Description": "Rank 25 of 27 Within Primary Metals Industry<br><a>Click here for additional details.</a>",
+        "Fabricated Metals": false,
+        "Industry": "Primary Metals",
+        "Name": "BROWN-PACIFIC INC",
+        "Petroleum": false,
+        "Petroleum Bulk": false,
+        "Primary Metals": true,
+        "TRIF ID": "90670BRWNP13639",
+        "description": "Toxicity is 25th Highest of 27 Within Primary Metals Industry<br><a>Click here for additional details.</a>",
+        "id": "marker-i9tbs1s71n",
+        "marker-color": "#f1f075",
+        "marker-size": "small",
+        "marker-symbol": "",
+        "title": "BROWN-PACIFIC INC"
+      },
+      "geometry": {
+        "coordinates": [
+          -118.04036,
+          33.90528
+        ],
+        "type": "Point"
+      },
+      "id": "ci9tbxv440151i9lvoa0g568b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Chemicals": false,
+        "Class": "Low",
+        "Description": "Rank 26 of 27 Within Primary Metals Industry<br><a>Click here for additional details.</a>",
+        "Fabricated Metals": false,
+        "Industry": "Primary Metals",
+        "Name": "P KAY METAL INC",
+        "Petroleum": false,
+        "Petroleum Bulk": false,
+        "Primary Metals": true,
+        "TRIF ID": "90058PKYMT2448E",
+        "description": "Toxicity is 26th Highest of 27 Within Primary Metals Industry<br><a>Click here for additional details.</a>",
+        "id": "marker-i9tbs1s71o",
+        "marker-color": "#f1f075",
+        "marker-size": "small",
+        "marker-symbol": "",
+        "title": "P KAY METAL INC"
+      },
+      "geometry": {
+        "coordinates": [
+          -118.22857,
+          34.01526
+        ],
+        "type": "Point"
+      },
+      "id": "ci9tbxv460152i9lv1adnqqes"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Chemicals": false,
+        "Class": "Low",
+        "Description": "Rank 27 of 27 Within Primary Metals Industry<br><a>Click here for additional details.</a>",
+        "Fabricated Metals": false,
+        "Industry": "Primary Metals",
+        "Name": "HUGHES BROS AIRCRAFTERS INC",
+        "Petroleum": false,
+        "Petroleum Bulk": false,
+        "Primary Metals": true,
+        "TRIF ID": "90280HGHSB11010",
+        "description": "Toxicity is 27th Highest of 27 Within Primary Metals Industry<br><a>Click here for additional details.</a>",
+        "id": "marker-i9tbs1s71p",
+        "marker-color": "#f1f075",
+        "marker-size": "small",
+        "marker-symbol": "",
+        "title": "HUGHES BROS AIRCRAFTERS INC"
+      },
+      "geometry": {
+        "coordinates": [
+          -118.16961,
+          33.92807
+        ],
+        "type": "Point"
+      },
+      "id": "ci9tbxv470153i9lvm1fqp9j6"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Chemicals": false,
+        "Class": "Low",
+        "Description": "Rank 19 of 27 Within Primary Metals Industry<br><a>Click here for additional details.</a>",
+        "Fabricated Metals": false,
+        "Industry": "Primary Metals",
+        "Name": "WESTERN TUBE & CONDUIT CORP",
+        "Petroleum": false,
+        "Petroleum Bulk": false,
+        "Primary Metals": true,
+        "TRIF ID": "90810WSTRN2001E",
+        "description": "Toxicity is 19th Highest of 27 Within Primary Metals Industry<br><a>Click here for additional details.</a>",
+        "id": "marker-i9tbs1s41h",
+        "marker-color": "#f1f075",
+        "marker-size": "small",
+        "marker-symbol": "",
+        "title": "WESTERN TUBE & CONDUIT CORP"
+      },
+      "geometry": {
+        "coordinates": [
+          -118.23457,
+          33.83922
+        ],
+        "type": "Point"
+      },
+      "id": "ci9tbxv480154i9lv23v5sddk"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Chemicals": false,
+        "Class": "Medium",
+        "Description": "Rank 4 of 27 Within Primary Metals Industry<br><a>Click here for additional details.</a>",
+        "Fabricated Metals": false,
+        "Industry": "Primary Metals",
+        "Name": "PACIFIC ALLOY CASTINGS",
+        "Petroleum": false,
+        "Petroleum Bulk": false,
+        "Primary Metals": true,
+        "TRIF ID": "90280PCFCL5900E",
+        "description": "Toxicity is 4th Highest of 27 Within Primary Metals Industry<br><a>Click here for additional details.</a>",
+        "id": "marker-i9tbslmh1q",
+        "marker-color": "#f5c272",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "PACIFIC ALLOY CASTINGS"
+      },
+      "geometry": {
+        "coordinates": [
+          -118.15949,
+          33.94857
+        ],
+        "type": "Point"
+      },
+      "id": "ci9tbxv4a0155i9lvyl1p3r1r"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Chemicals": false,
+        "Class": "Medium",
+        "Description": "Rank 5 of 27 Within Primary Metals Industry<br><a>Click here for additional details.</a>",
+        "Fabricated Metals": false,
+        "Industry": "Primary Metals",
+        "Name": "QUEMETCO INC",
+        "Petroleum": false,
+        "Petroleum Bulk": false,
+        "Primary Metals": true,
+        "TRIF ID": "91745QMTCN720SO",
+        "description": "Toxicity is 5th Highest of 27 Within Primary Metals Industry<br><a>Click here for additional details.</a>",
+        "id": "marker-i9tbslmi1r",
+        "marker-color": "#f5c272",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "QUEMETCO INC"
+      },
+      "geometry": {
+        "coordinates": [
+          -117.98347,
+          34.025026
+        ],
+        "type": "Point"
+      },
+      "id": "ci9tbxv4b0156i9lv09nzebx9"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Chemicals": false,
+        "Class": "Medium",
+        "Description": "Rank 6 of 27 Within Primary Metals Industry<br><a>Click here for additional details.</a>",
+        "Fabricated Metals": false,
+        "Industry": "Primary Metals",
+        "Name": "PAC FOUNDRIES-INDUSTRY",
+        "Petroleum": false,
+        "Petroleum Bulk": false,
+        "Primary Metals": true,
+        "TRIF ID": "91745TLDYN16800",
+        "description": "Toxicity is 6th Highest of 27 Within Primary Metals Industry<br><a>Click here for additional details.</a>",
+        "id": "marker-i9tbslmj1s",
+        "marker-color": "#f5c272",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "PAC FOUNDRIES-INDUSTRY"
+      },
+      "geometry": {
+        "coordinates": [
+          -117.93847,
+          34.00757
+        ],
+        "type": "Point"
+      },
+      "id": "ci9tbxv4c0157i9lv0f6y9sc9"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Chemicals": false,
+        "Class": "Medium",
+        "Description": "Rank 7 of 27 Within Primary Metals Industry<br><a>Click here for additional details.</a>",
+        "Fabricated Metals": false,
+        "Industry": "Primary Metals",
+        "Name": "HERAEUS PRECIOUS METALS NA LLC",
+        "Petroleum": false,
+        "Petroleum Bulk": false,
+        "Primary Metals": true,
+        "TRIF ID": "90670PGPND13429",
+        "description": "Toxicity is 7th Highest of 27 Within Primary Metals Industry<br><a>Click here for additional details.</a>",
+        "id": "marker-i9tbslmj1t",
+        "marker-color": "#f5c272",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "HERAEUS PRECIOUS METALS NA LLC"
+      },
+      "geometry": {
+        "coordinates": [
+          -118.04559,
+          33.88794
+        ],
+        "type": "Point"
+      },
+      "id": "ci9tbxv4e0158i9lvngm98ico"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Chemicals": true,
+        "Class": "High",
+        "Description": "Rank 1 of 56 Within Chemicals Industry<br><a>Click here for additional details.</a>",
+        "Fabricated Metals": false,
+        "Industry": "Chemicals         ",
+        "Name": "CARDINAL INDUSTRIAL FINISHES",
+        "Petroleum": false,
+        "Petroleum Bulk": false,
+        "Primary Metals": false,
+        "TRIF ID": "91733CRDNL1329P",
+        "description": "Toxicity is 1st Highest of 56 Within Chemicals Industry<br><a>Click here for additional details.</a>",
+        "id": "marker-i9tbt4j11u",
+        "marker-color": "#f86767",
+        "marker-size": "large",
+        "marker-symbol": "",
+        "title": "CARDINAL INDUSTRIAL FINISHES"
+      },
+      "geometry": {
+        "coordinates": [
+          -118.05565,
+          34.044077
+        ],
+        "type": "Point"
+      },
+      "id": "ci9tbxv4f0159i9lvvu6jyxu7"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Chemicals": true,
+        "Class": "Medium",
+        "Description": "Rank 2 of 56 Within Chemicals Industry<br><a>Click here for additional details.</a>",
+        "Fabricated Metals": false,
+        "Industry": "Chemicals         ",
+        "Name": "AIR PRODUCTS & CHEMICALS INC",
+        "Petroleum": false,
+        "Petroleum Bulk": false,
+        "Primary Metals": false,
+        "TRIF ID": "90744RPRDS700HE",
+        "description": "Toxicity is 2nd Highest of 56 Within Chemicals Industry<br><a>Click here for additional details.</a>",
+        "id": "marker-i9tbt4j11v",
+        "marker-color": "#f5c272",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "AIR PRODUCTS & CHEMICALS INC"
+      },
+      "geometry": {
+        "coordinates": [
+          -118.241111,
+          33.780833
+        ],
+        "type": "Point"
+      },
+      "id": "ci9tbxv4g015ai9lve2be9cpp"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Chemicals": true,
+        "Class": "Medium",
+        "Description": "Rank 3 of 56 Within Chemicals Industry<br><a>Click here for additional details.</a>",
+        "Fabricated Metals": false,
+        "Industry": "Chemicals         ",
+        "Name": "ASHLAND SPECIALTY CHEMICAL CO",
+        "Petroleum": false,
+        "Petroleum Bulk": false,
+        "Primary Metals": false,
+        "TRIF ID": "90040SHLND6608E",
+        "description": "Toxicity is 3rd Highest of 56 Within Chemicals Industry<br><a>Click here for additional details.</a>",
+        "id": "marker-i9tbt4j21w",
+        "marker-color": "#f5c272",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "ASHLAND SPECIALTY CHEMICAL CO"
+      },
+      "geometry": {
+        "coordinates": [
+          -118.133333,
+          33.983333
+        ],
+        "type": "Point"
+      },
+      "id": "ci9tbxv4h015bi9lv9zjb2n01"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Chemicals": true,
+        "Class": "Low",
+        "Description": "Rank 4 of 56 Within Chemicals Industry<br><a>Click here for additional details.</a>",
+        "Fabricated Metals": false,
+        "Industry": "Chemicals         ",
+        "Name": "DAY-GLO COLOR CORP",
+        "Petroleum": false,
+        "Petroleum Bulk": false,
+        "Primary Metals": false,
+        "TRIF ID": "90201DYGLC4615A",
+        "description": "Toxicity is 4th Highest of 56 Within Chemicals Industry<br><a>Click here for additional details.</a>",
+        "id": "marker-i9tbt4j21x",
+        "marker-color": "#f1f075",
+        "marker-size": "small",
+        "marker-symbol": "",
+        "title": "DAY-GLO COLOR CORP"
+      },
+      "geometry": {
+        "coordinates": [
+          -118.18639,
+          33.9572
+        ],
+        "type": "Point"
+      },
+      "id": "ci9tbxv4j015ci9lveoepvgu6"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Chemicals": true,
+        "Class": "Low",
+        "Description": "Rank 5 of 56 Within Chemicals Industry<br><a>Click here for additional details.</a>",
+        "Fabricated Metals": false,
+        "Industry": "Chemicals         ",
+        "Name": "PHARMAVITE LLC",
+        "Petroleum": false,
+        "Petroleum Bulk": false,
+        "Primary Metals": false,
+        "TRIF ID": "91340PHRMV1150A",
+        "description": "Toxicity is 5th Highest of 56 Within Chemicals Industry<br><a>Click here for additional details.</a>",
+        "id": "marker-i9tbt4j21y",
+        "marker-color": "#f1f075",
+        "marker-size": "small",
+        "marker-symbol": "",
+        "title": "PHARMAVITE LLC"
+      },
+      "geometry": {
+        "coordinates": [
+          -118.420989,
+          34.291216
+        ],
+        "type": "Point"
+      },
+      "id": "ci9tbxv4k015di9lv5scpte7w"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Chemicals": true,
+        "Class": "Low",
+        "Description": "Rank 6 of 56 Within Chemicals Industry<br><a>Click here for additional details.</a>",
+        "Fabricated Metals": false,
+        "Industry": "Chemicals         ",
+        "Name": "GRIFOLS BIOLOGICALS INC",
+        "Petroleum": false,
+        "Petroleum Bulk": false,
+        "Primary Metals": false,
+        "TRIF ID": "90032LPHTH5555V",
+        "description": "Toxicity is 6th Highest of 56 Within Chemicals Industry<br><a>Click here for additional details.</a>",
+        "id": "marker-i9tbt4j31z",
+        "marker-color": "#f1f075",
+        "marker-size": "small",
+        "marker-symbol": "",
+        "title": "GRIFOLS BIOLOGICALS INC"
+      },
+      "geometry": {
+        "coordinates": [
+          -118.16258,
+          34.0743
+        ],
+        "type": "Point"
+      },
+      "id": "ci9tbxv4l015ei9lvnapk0psz"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Chemicals": true,
+        "Class": "Low",
+        "Description": "Rank 7 of 56 Within Chemicals Industry<br><a>Click here for additional details.</a>",
+        "Fabricated Metals": false,
+        "Industry": "Chemicals         ",
+        "Name": "AIR LIQUIDE LARGE INDUSTRIES US LP - EL SEGUNDO",
+        "Petroleum": false,
+        "Petroleum Bulk": false,
+        "Primary Metals": false,
+        "TRIF ID": "90245RLQDL131EE",
+        "description": "Toxicity is 7th Highest of 56 Within Chemicals Industry<br><a>Click here for additional details.</a>",
+        "id": "marker-i9tbt4j320",
+        "marker-color": "#f1f075",
+        "marker-size": "small",
+        "marker-symbol": "",
+        "title": "AIR LIQUIDE LARGE INDUSTRIES US LP - EL SEGUNDO"
+      },
+      "geometry": {
+        "coordinates": [
+          -118.401944,
+          33.905833
+        ],
+        "type": "Point"
+      },
+      "id": "ci9tbxv4n015fi9lvml0nifaf"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Chemicals": true,
+        "Class": "Low",
+        "Description": "Rank 8 of 56 Within Chemicals Industry<br><a>Click here for additional details.</a>",
+        "Fabricated Metals": false,
+        "Industry": "Chemicals         ",
+        "Name": "PRC-DESOTO INTERNATIONAL INC",
+        "Petroleum": false,
+        "Petroleum Bulk": false,
+        "Primary Metals": false,
+        "TRIF ID": "9135WPRCDS24811",
+        "description": "Toxicity is 8th Highest of 56 Within Chemicals Industry<br><a>Click here for additional details.</a>",
+        "id": "marker-i9tbt4j321",
+        "marker-color": "#f1f075",
+        "marker-size": "small",
+        "marker-symbol": "",
+        "title": "PRC-DESOTO INTERNATIONAL INC"
+      },
+      "geometry": {
+        "coordinates": [
+          -118.56832,
+          34.43003
+        ],
+        "type": "Point"
+      },
+      "id": "ci9tbxv4o015gi9lv5bzp9mv7"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Chemicals": true,
+        "Class": "Low",
+        "Description": "Rank 9 of 56 Within Chemicals Industry<br><a>Click here for additional details.</a>",
+        "Fabricated Metals": false,
+        "Industry": "Chemicals         ",
+        "Name": "INTERNATIONAL COATINGS CO INC",
+        "Petroleum": false,
+        "Petroleum Bulk": false,
+        "Primary Metals": false,
+        "TRIF ID": "90701NTRNT13929",
+        "description": "Toxicity is 9th Highest of 56 Within Chemicals Industry<br><a>Click here for additional details.</a>",
+        "id": "marker-i9tbt4j422",
+        "marker-color": "#f1f075",
+        "marker-size": "small",
+        "marker-symbol": "",
+        "title": "INTERNATIONAL COATINGS CO INC"
+      },
+      "geometry": {
+        "coordinates": [
+          -118.035631,
+          33.880625
+        ],
+        "type": "Point"
+      },
+      "id": "ci9tbxv4p015hi9lviwooeuzw"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Chemicals": true,
+        "Class": "Low",
+        "Description": "Rank 10 of 56 Within Chemicals Industry<br><a>Click here for additional details.</a>",
+        "Fabricated Metals": false,
+        "Industry": "Chemicals         ",
+        "Name": "INEOS POLYPROPYLENE LLC",
+        "Petroleum": false,
+        "Petroleum Bulk": false,
+        "Primary Metals": false,
+        "TRIF ID": "90749RCPRD1801A",
+        "description": "Toxicity is 10th Highest of 56 Within Chemicals Industry<br><a>Click here for additional details.</a>",
+        "id": "marker-i9tbt4j423",
+        "marker-color": "#f1f075",
+        "marker-size": "small",
+        "marker-symbol": "",
+        "title": "INEOS POLYPROPYLENE LLC"
+      },
+      "geometry": {
+        "coordinates": [
+          -118.23177,
+          33.82399
+        ],
+        "type": "Point"
+      },
+      "id": "ci9tbxv4q015ii9lvpixh3g28"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Chemicals": true,
+        "Class": "Low",
+        "Description": "Rank 11 of 56 Within Chemicals Industry<br><a>Click here for additional details.</a>",
+        "Fabricated Metals": false,
+        "Industry": "Chemicals         ",
+        "Name": "PIONEER AMERICAS LLC(DBA OLIN CHLOR ALKALI PRODUCTS SFS)",
+        "Petroleum": false,
+        "Petroleum Bulk": false,
+        "Primary Metals": false,
+        "TRIF ID": "90670LLPRC11600",
+        "description": "Toxicity is 11th Highest of 56 Within Chemicals Industry<br><a>Click here for additional details.</a>",
+        "id": "marker-i9tbt4j424",
+        "marker-color": "#f1f075",
+        "marker-size": "small",
+        "marker-symbol": "",
+        "title": "PIONEER AMERICAS LLC(DBA OLIN CHLOR ALKALI PRODUCTS SFS)"
+      },
+      "geometry": {
+        "coordinates": [
+          -118.075278,
+          33.957222
+        ],
+        "type": "Point"
+      },
+      "id": "ci9tbxv4s015ji9lvp9w5cnlu"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Chemicals": true,
+        "Class": "Low",
+        "Description": "Rank 12 of 56 Within Chemicals Industry<br><a>Click here for additional details.</a>",
+        "Fabricated Metals": false,
+        "Industry": "Chemicals         ",
+        "Name": "LMC ENTERPRISES DBA FLO-KEM",
+        "Petroleum": false,
+        "Petroleum Bulk": false,
+        "Primary Metals": false,
+        "TRIF ID": "90221FLKMN19402",
+        "description": "Toxicity is 12th Highest of 56 Within Chemicals Industry<br><a>Click here for additional details.</a>",
+        "id": "marker-i9tbt4j525",
+        "marker-color": "#f1f075",
+        "marker-size": "small",
+        "marker-symbol": "",
+        "title": "LMC ENTERPRISES DBA FLO-KEM"
+      },
+      "geometry": {
+        "coordinates": [
+          -118.206383,
+          33.854811
+        ],
+        "type": "Point"
+      },
+      "id": "ci9tbxv4u015ki9lvmnbgo327"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Chemicals": false,
+        "Class": "Medium",
+        "Description": "Rank 2 of 23  Within Petroleum Bulk Industry<br><a>Click here for additional details.</a>",
+        "Fabricated Metals": false,
+        "Industry": "Petroleum Bulk Industry",
+        "Name": "CHEMOIL CORP",
+        "Petroleum": false,
+        "Petroleum Bulk": true,
+        "Primary Metals": false,
+        "TRIF ID": "90802LNGBC1004P",
+        "description": "Toxicity is 2nd Highest of 23  Within Petroleum Bulk Industry<br><a>Click here for additional details.</a>",
+        "id": "marker-i9tbqbyk1",
+        "marker-color": "#f5c272",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "CHEMOIL CORP"
+      },
+      "geometry": {
+        "coordinates": [
+          -118.208842,
+          33.751629
+        ],
+        "type": "Point"
+      },
+      "id": "ci9tbxv4v015li9lvxuv0482n"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Chemicals": true,
+        "Class": "Low",
+        "Description": "Rank 14 of 56 Within Chemicals Industry<br><a>Click here for additional details.</a>",
+        "Fabricated Metals": false,
+        "Industry": "Chemicals         ",
+        "Name": "MAINTEX INC",
+        "Petroleum": false,
+        "Petroleum Bulk": false,
+        "Primary Metals": false,
+        "TRIF ID": "91744MNTXN13300",
+        "description": "Toxicity is 14th Highest of 56 Within Chemicals Industry<br><a>Click here for additional details.</a>",
+        "id": "marker-i9tbt4j527",
+        "marker-color": "#f1f075",
+        "marker-size": "small",
+        "marker-symbol": "",
+        "title": "MAINTEX INC"
+      },
+      "geometry": {
+        "coordinates": [
+          -117.994354,
+          34.052562
+        ],
+        "type": "Point"
+      },
+      "id": "ci9tbxv4w015mi9lvxgxtqonr"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Chemicals": true,
+        "Class": "Low",
+        "Description": "Rank 15 of 56 Within Chemicals Industry<br><a>Click here for additional details.</a>",
+        "Fabricated Metals": false,
+        "Industry": "Chemicals         ",
+        "Name": "CARROLL CO  CALIFORNIA DIV",
+        "Petroleum": false,
+        "Petroleum Bulk": false,
+        "Primary Metals": false,
+        "TRIF ID": "90670GRWGR11641",
+        "description": "Toxicity is 15th Highest of 56 Within Chemicals Industry<br><a>Click here for additional details.</a>",
+        "id": "marker-i9tbt4j628",
+        "marker-color": "#f1f075",
+        "marker-size": "small",
+        "marker-symbol": "",
+        "title": "CARROLL CO  CALIFORNIA DIV"
+      },
+      "geometry": {
+        "coordinates": [
+          -118.07475,
+          33.95604
+        ],
+        "type": "Point"
+      },
+      "id": "ci9tbxv4y015ni9lvwn2l3lyv"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Chemicals": true,
+        "Class": "Low",
+        "Description": "Rank 16 of 56 Within Chemicals Industry<br><a>Click here for additional details.</a>",
+        "Fabricated Metals": false,
+        "Industry": "Chemicals         ",
+        "Name": "SILPAK INC",
+        "Petroleum": false,
+        "Petroleum Bulk": false,
+        "Primary Metals": false,
+        "TRIF ID": "91767SLPKN47EBN",
+        "description": "Toxicity is 16th Highest of 56 Within Chemicals Industry<br><a>Click here for additional details.</a>",
+        "id": "marker-i9tbt4j629",
+        "marker-color": "#f1f075",
+        "marker-size": "small",
+        "marker-symbol": "",
+        "title": "SILPAK INC"
+      },
+      "geometry": {
+        "coordinates": [
+          -117.742756,
+          34.0962
+        ],
+        "type": "Point"
+      },
+      "id": "ci9tbxv4z015oi9lvh2fvzy7c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Chemicals": true,
+        "Class": "Low",
+        "Description": "Rank 17 of 56 Within Chemicals Industry<br><a>Click here for additional details.</a>",
+        "Fabricated Metals": false,
+        "Industry": "Chemicals         ",
+        "Name": "SIKA CORP",
+        "Petroleum": false,
+        "Petroleum Bulk": false,
+        "Primary Metals": false,
+        "TRIF ID": "90670SKCRP12767",
+        "description": "Toxicity is 17th Highest of 56 Within Chemicals Industry<br><a>Click here for additional details.</a>",
+        "id": "marker-i9tbt4j62a",
+        "marker-color": "#f1f075",
+        "marker-size": "small",
+        "marker-symbol": "",
+        "title": "SIKA CORP"
+      },
+      "geometry": {
+        "coordinates": [
+          -118.05953,
+          33.91718
+        ],
+        "type": "Point"
+      },
+      "id": "ci9tbxv50015pi9lvg98i1xi2"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Chemicals": true,
+        "Class": "Low",
+        "Description": "Rank 18 of 56 Within Chemicals Industry<br><a>Click here for additional details.</a>",
+        "Fabricated Metals": false,
+        "Industry": "Chemicals         ",
+        "Name": "M ARGUESO & CO INC",
+        "Petroleum": false,
+        "Petroleum Bulk": false,
+        "Primary Metals": false,
+        "TRIF ID": "91770MRGSC2628R",
+        "description": "Toxicity is 18th Highest of 56 Within Chemicals Industry<br><a>Click here for additional details.</a>",
+        "id": "marker-i9tbt4j72b",
+        "marker-color": "#f1f075",
+        "marker-size": "small",
+        "marker-symbol": "",
+        "title": "M ARGUESO & CO INC"
+      },
+      "geometry": {
+        "coordinates": [
+          -118.0731,
+          34.05978
+        ],
+        "type": "Point"
+      },
+      "id": "ci9tbxv52015qi9lv2r39zpts"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Chemicals": true,
+        "Class": "Low",
+        "Description": "Rank 19 of 56 Within Chemicals Industry<br><a>Click here for additional details.</a>",
+        "Fabricated Metals": false,
+        "Industry": "Chemicals         ",
+        "Name": "MOC PRODUCTS CO INC",
+        "Petroleum": false,
+        "Petroleum Bulk": false,
+        "Primary Metals": false,
+        "TRIF ID": "91331MCPRD12306",
+        "description": "Toxicity is 19th Highest of 56 Within Chemicals Industry<br><a>Click here for additional details.</a>",
+        "id": "marker-i9tbt4j72c",
+        "marker-color": "#f1f075",
+        "marker-size": "small",
+        "marker-symbol": "",
+        "title": "MOC PRODUCTS CO INC"
+      },
+      "geometry": {
+        "coordinates": [
+          -118.40135,
+          34.25483
+        ],
+        "type": "Point"
+      },
+      "id": "ci9tbxv53015ri9lvqvuandfu"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Chemicals": true,
+        "Class": "Low",
+        "Description": "Rank 20 of 56 Within Chemicals Industry<br><a>Click here for additional details.</a>",
+        "Fabricated Metals": false,
+        "Industry": "Chemicals         ",
+        "Name": "HUNTSMAN ADVANCED MATERIALS AMERICAS LLC- LA SITE",
+        "Petroleum": false,
+        "Petroleum Bulk": false,
+        "Primary Metals": false,
+        "TRIF ID": "90039CBGGY5121S",
+        "description": "Toxicity is 20th Highest of 56 Within Chemicals Industry<br><a>Click here for additional details.</a>",
+        "id": "marker-i9tbt4j72d",
+        "marker-color": "#f1f075",
+        "marker-size": "small",
+        "marker-symbol": "",
+        "title": "HUNTSMAN ADVANCED MATERIALS AMERICAS LLC- LA SITE"
+      },
+      "geometry": {
+        "coordinates": [
+          -118.271642,
+          34.144774
+        ],
+        "type": "Point"
+      },
+      "id": "ci9tbxv54015si9lvjq1e5k48"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Chemicals": true,
+        "Class": "Low",
+        "Description": "Rank 21 of 56 Within Chemicals Industry<br><a>Click here for additional details.</a>",
+        "Fabricated Metals": false,
+        "Industry": "Chemicals         ",
+        "Name": "HJ BAKER & BRO INC",
+        "Petroleum": false,
+        "Petroleum Bulk": false,
+        "Primary Metals": false,
+        "TRIF ID": "9074WHJBKR11SCH",
+        "description": "Toxicity is 21st Highest of 56 Within Chemicals Industry<br><a>Click here for additional details.</a>",
+        "id": "marker-i9tbt4j82e",
+        "marker-color": "#f1f075",
+        "marker-size": "small",
+        "marker-symbol": "",
+        "title": "HJ BAKER & BRO INC"
+      },
+      "geometry": {
+        "coordinates": [
+          -118.23258,
+          33.7831
+        ],
+        "type": "Point"
+      },
+      "id": "ci9tbxv55015ti9lv0hr7q9v3"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Chemicals": true,
+        "Class": "Low",
+        "Description": "Rank 22 of 56 Within Chemicals Industry<br><a>Click here for additional details.</a>",
+        "Fabricated Metals": false,
+        "Industry": "Chemicals         ",
+        "Name": "GROW MORE INC",
+        "Petroleum": false,
+        "Petroleum Bulk": false,
+        "Primary Metals": false,
+        "TRIF ID": "90221GRMRN188SU",
+        "description": "Toxicity is 22nd Highest of 56 Within Chemicals Industry<br><a>Click here for additional details.</a>",
+        "id": "marker-i9tbt4j82f",
+        "marker-color": "#f1f075",
+        "marker-size": "small",
+        "marker-symbol": "",
+        "title": "GROW MORE INC"
+      },
+      "geometry": {
+        "coordinates": [
+          -118.20445,
+          33.85829
+        ],
+        "type": "Point"
+      },
+      "id": "ci9tbxv57015ui9lv8apxv125"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Chemicals": true,
+        "Class": "Low",
+        "Description": "Rank 23 of 56 Within Chemicals Industry<br><a>Click here for additional details.</a>",
+        "Fabricated Metals": false,
+        "Industry": "Chemicals         ",
+        "Name": "GRANITIZE PRODUCTS INC",
+        "Petroleum": false,
+        "Petroleum Bulk": false,
+        "Primary Metals": false,
+        "TRIF ID": "90250GRNTZ11022",
+        "description": "Toxicity is 23rd Highest of 56 Within Chemicals Industry<br><a>Click here for additional details.</a>",
+        "id": "marker-i9tbt4j82g",
+        "marker-color": "#f1f075",
+        "marker-size": "small",
+        "marker-symbol": "",
+        "title": "GRANITIZE PRODUCTS INC"
+      },
+      "geometry": {
+        "coordinates": [
+          -118.16713,
+          33.92737
+        ],
+        "type": "Point"
+      },
+      "id": "ci9tbxv58015vi9lvogrx5s6b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Chemicals": true,
+        "Class": "Low",
+        "Description": "Rank 24 of 56 Within Chemicals Industry<br><a>Click here for additional details.</a>",
+        "Fabricated Metals": false,
+        "Industry": "Chemicals         ",
+        "Name": "LINDE LLC",
+        "Petroleum": false,
+        "Petroleum Bulk": false,
+        "Primary Metals": false,
+        "TRIF ID": "90503RCCGR2535D",
+        "description": "Toxicity is 24th Highest of 56 Within Chemicals Industry<br><a>Click here for additional details.</a>",
+        "id": "marker-i9tbt4j92h",
+        "marker-color": "#f1f075",
+        "marker-size": "small",
+        "marker-symbol": "",
+        "title": "LINDE LLC"
+      },
+      "geometry": {
+        "coordinates": [
+          -118.329701,
+          33.847065
+        ],
+        "type": "Point"
+      },
+      "id": "ci9tbxv59015wi9lvgmsgtbbl"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Chemicals": true,
+        "Class": "Low",
+        "Description": "Rank 25 of 56 Within Chemicals Industry<br><a>Click here for additional details.</a>",
+        "Fabricated Metals": false,
+        "Industry": "Chemicals         ",
+        "Name": "TECHMER PM LLC",
+        "Petroleum": false,
+        "Petroleum Bulk": false,
+        "Primary Metals": false,
+        "TRIF ID": "90220TCHMR18420",
+        "description": "Toxicity is 25th Highest of 56 Within Chemicals Industry<br><a>Click here for additional details.</a>",
+        "id": "marker-i9tbt4j92i",
+        "marker-color": "#f1f075",
+        "marker-size": "small",
+        "marker-symbol": "",
+        "title": "TECHMER PM LLC"
+      },
+      "geometry": {
+        "coordinates": [
+          -118.21956,
+          33.86342
+        ],
+        "type": "Point"
+      },
+      "id": "ci9tbxv5b015xi9lvbq8vg4om"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Chemicals": true,
+        "Class": "Low",
+        "Description": "Rank 26 of 56 Within Chemicals Industry<br><a>Click here for additional details.</a>",
+        "Fabricated Metals": false,
+        "Industry": "Chemicals         ",
+        "Name": "LEVLAD",
+        "Petroleum": false,
+        "Petroleum Bulk": false,
+        "Primary Metals": false,
+        "TRIF ID": "91311LVLDX92MAS",
+        "description": "Toxicity is 26th Highest of 56 Within Chemicals Industry<br><a>Click here for additional details.</a>",
+        "id": "marker-i9tbt4j92j",
+        "marker-color": "#f1f075",
+        "marker-size": "small",
+        "marker-symbol": "",
+        "title": "LEVLAD"
+      },
+      "geometry": {
+        "coordinates": [
+          -118.57979,
+          34.2375
+        ],
+        "type": "Point"
+      },
+      "id": "ci9tbxv5c015yi9lv0juzxae0"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Chemicals": true,
+        "Class": "Low",
+        "Description": "Rank 27 of 56 Within Chemicals Industry<br><a>Click here for additional details.</a>",
+        "Fabricated Metals": false,
+        "Industry": "Chemicals         ",
+        "Name": "BACHEM AMERICAS INC",
+        "Petroleum": false,
+        "Petroleum Bulk": false,
+        "Primary Metals": false,
+        "TRIF ID": "90505BCHMN3132K",
+        "description": "Toxicity is 27th Highest of 56 Within Chemicals Industry<br><a>Click here for additional details.</a>",
+        "id": "marker-i9tbt4ja2k",
+        "marker-color": "#f1f075",
+        "marker-size": "small",
+        "marker-symbol": "",
+        "title": "BACHEM AMERICAS INC"
+      },
+      "geometry": {
+        "coordinates": [
+          -118.33985,
+          33.81511
+        ],
+        "type": "Point"
+      },
+      "id": "ci9tbxv5d015zi9lvmq2hik8t"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Chemicals": true,
+        "Class": "Low",
+        "Description": "Rank 28 of 56 Within Chemicals Industry<br><a>Click here for additional details.</a>",
+        "Fabricated Metals": false,
+        "Industry": "Chemicals         ",
+        "Name": "TEKNOR APEX CO",
+        "Petroleum": false,
+        "Petroleum Bulk": false,
+        "Primary Metals": false,
+        "TRIF ID": "91746MCLNC420SO",
+        "description": "Toxicity is 28th Highest of 56 Within Chemicals Industry<br><a>Click here for additional details.</a>",
+        "id": "marker-i9tbt4ja2l",
+        "marker-color": "#f1f075",
+        "marker-size": "small",
+        "marker-symbol": "",
+        "title": "TEKNOR APEX CO"
+      },
+      "geometry": {
+        "coordinates": [
+          -117.982912,
+          34.032622
+        ],
+        "type": "Point"
+      },
+      "id": "ci9tbxv5f0160i9lvzsz7uqd4"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Chemicals": true,
+        "Class": "Low",
+        "Description": "Rank 29 of 56 Within Chemicals Industry<br><a>Click here for additional details.</a>",
+        "Fabricated Metals": false,
+        "Industry": "Chemicals         ",
+        "Name": "POLYPEPTIDE GROUP",
+        "Petroleum": false,
+        "Petroleum Bulk": false,
+        "Primary Metals": false,
+        "TRIF ID": "9050WPLYPP365MA",
+        "description": "Toxicity is 29th Highest of 56 Within Chemicals Industry<br><a>Click here for additional details.</a>",
+        "id": "marker-i9tbt4ja2m",
+        "marker-color": "#f1f075",
+        "marker-size": "small",
+        "marker-symbol": "",
+        "title": "POLYPEPTIDE GROUP"
+      },
+      "geometry": {
+        "coordinates": [
+          -118.34015,
+          33.84583
+        ],
+        "type": "Point"
+      },
+      "id": "ci9tbxv5g0161i9lvwqrmkor5"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Chemicals": true,
+        "Class": "Low",
+        "Description": "Rank 30 of 56 Within Chemicals Industry<br><a>Click here for additional details.</a>",
+        "Fabricated Metals": false,
+        "Industry": "Chemicals         ",
+        "Name": "AMERICAS STYRENICS LLC",
+        "Petroleum": false,
+        "Petroleum Bulk": false,
+        "Primary Metals": false,
+        "TRIF ID": "90503MRCSS35CRE",
+        "description": "Toxicity is 30th Highest of 56 Within Chemicals Industry<br><a>Click here for additional details.</a>",
+        "id": "marker-i9tbt4jb2n",
+        "marker-color": "#f1f075",
+        "marker-size": "small",
+        "marker-symbol": "",
+        "title": "AMERICAS STYRENICS LLC"
+      },
+      "geometry": {
+        "coordinates": [
+          -118.32878,
+          33.84641
+        ],
+        "type": "Point"
+      },
+      "id": "ci9tbxv5h0162i9lvpa50cclu"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Chemicals": true,
+        "Class": "Low",
+        "Description": "Rank 31 of 56 Within Chemicals Industry<br><a>Click here for additional details.</a>",
+        "Fabricated Metals": false,
+        "Industry": "Chemicals         ",
+        "Name": "US BORAX INC",
+        "Petroleum": false,
+        "Petroleum Bulk": false,
+        "Primary Metals": false,
+        "TRIF ID": "90744NTDST300FA",
+        "description": "Toxicity is 31st Highest of 56 Within Chemicals Industry<br><a>Click here for additional details.</a>",
+        "id": "marker-i9tbt4jb2o",
+        "marker-color": "#f1f075",
+        "marker-size": "small",
+        "marker-symbol": "",
+        "title": "US BORAX INC"
+      },
+      "geometry": {
+        "coordinates": [
+          -118.26559,
+          33.75687
+        ],
+        "type": "Point"
+      },
+      "id": "ci9tbxv5i0163i9lvz4kndze5"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Chemicals": true,
+        "Class": "Low",
+        "Description": "Rank 32 of 56 Within Chemicals Industry<br><a>Click here for additional details.</a>",
+        "Fabricated Metals": false,
+        "Industry": "Chemicals         ",
+        "Name": "BERG LACQUER CO",
+        "Petroleum": false,
+        "Petroleum Bulk": false,
+        "Primary Metals": false,
+        "TRIF ID": "90023BRGLC3150E",
+        "description": "Toxicity is 32nd Highest of 56 Within Chemicals Industry<br><a>Click here for additional details.</a>",
+        "id": "marker-i9tbt4jb2p",
+        "marker-color": "#f1f075",
+        "marker-size": "small",
+        "marker-symbol": "",
+        "title": "BERG LACQUER CO"
+      },
+      "geometry": {
+        "coordinates": [
+          -118.212607,
+          34.017443
+        ],
+        "type": "Point"
+      },
+      "id": "ci9tbxv5k0164i9lvd8uoseyv"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Chemicals": true,
+        "Class": "Low",
+        "Description": "Rank 33 of 56 Within Chemicals Industry<br><a>Click here for additional details.</a>",
+        "Fabricated Metals": false,
+        "Industry": "Chemicals         ",
+        "Name": "AIR PRODUCTS & CHEMICALS INC",
+        "Petroleum": false,
+        "Petroleum Bulk": false,
+        "Primary Metals": false,
+        "TRIF ID": "90810RPRDS23300",
+        "description": "Toxicity is 33rd Highest of 56 Within Chemicals Industry<br><a>Click here for additional details.</a>",
+        "id": "marker-i9tbt4jc2q",
+        "marker-color": "#f1f075",
+        "marker-size": "small",
+        "marker-symbol": "",
+        "title": "AIR PRODUCTS & CHEMICALS INC"
+      },
+      "geometry": {
+        "coordinates": [
+          -118.231389,
+          33.812778
+        ],
+        "type": "Point"
+      },
+      "id": "ci9tbxv5l0165i9lvcp9n06d4"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Chemicals": true,
+        "Class": "Low",
+        "Description": "Rank 34 of 56 Within Chemicals Industry<br><a>Click here for additional details.</a>",
+        "Fabricated Metals": false,
+        "Industry": "Chemicals         ",
+        "Name": "BAXTER BIOSCIENCE LOS ANGELES PLANT",
+        "Petroleum": false,
+        "Petroleum Bulk": false,
+        "Primary Metals": false,
+        "TRIF ID": "90039BXTRH4501W",
+        "description": "Toxicity is 34th Highest of 56 Within Chemicals Industry<br><a>Click here for additional details.</a>",
+        "id": "marker-i9tbt4jc2r",
+        "marker-color": "#f1f075",
+        "marker-size": "small",
+        "marker-symbol": "",
+        "title": "BAXTER BIOSCIENCE LOS ANGELES PLANT"
+      },
+      "geometry": {
+        "coordinates": [
+          -118.27007,
+          34.14234
+        ],
+        "type": "Point"
+      },
+      "id": "ci9tbxv5m0166i9lvlmq2jeoc"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Chemicals": true,
+        "Class": "Low",
+        "Description": "Rank 35 of 56 Within Chemicals Industry<br><a>Click here for additional details.</a>",
+        "Fabricated Metals": false,
+        "Industry": "Chemicals         ",
+        "Name": "POLYONE CORP",
+        "Petroleum": false,
+        "Petroleum Bulk": false,
+        "Primary Metals": false,
+        "TRIF ID": "90745BFGDR2104E",
+        "description": "Toxicity is 35th Highest of 56 Within Chemicals Industry<br><a>Click here for additional details.</a>",
+        "id": "marker-i9tbt4jc2s",
+        "marker-color": "#f1f075",
+        "marker-size": "small",
+        "marker-symbol": "",
+        "title": "POLYONE CORP"
+      },
+      "geometry": {
+        "coordinates": [
+          -118.237707,
+          33.824281
+        ],
+        "type": "Point"
+      },
+      "id": "ci9tbxv5o0167i9lvazh76xbt"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Chemicals": true,
+        "Class": "Low",
+        "Description": "Rank 36 of 56 Within Chemicals Industry<br><a>Click here for additional details.</a>",
+        "Fabricated Metals": false,
+        "Industry": "Chemicals         ",
+        "Name": "AMERICAN POLYMERS CORP DBA POLYCOAT PRODUCTS",
+        "Petroleum": false,
+        "Petroleum Bulk": false,
+        "Primary Metals": false,
+        "TRIF ID": "90670MRCNP14722",
+        "description": "Toxicity is 36th Highest of 56 Within Chemicals Industry<br><a>Click here for additional details.</a>",
+        "id": "marker-i9tbt4jd2t",
+        "marker-color": "#f1f075",
+        "marker-size": "small",
+        "marker-symbol": "",
+        "title": "AMERICAN POLYMERS CORP DBA POLYCOAT PRODUCTS"
+      },
+      "geometry": {
+        "coordinates": [
+          -118.039722,
+          33.896389
+        ],
+        "type": "Point"
+      },
+      "id": "ci9tbxv5p0168i9lv0apn1bmv"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Chemicals": true,
+        "Class": "Low",
+        "Description": "Rank 37 of 56 Within Chemicals Industry<br><a>Click here for additional details.</a>",
+        "Fabricated Metals": false,
+        "Industry": "Chemicals         ",
+        "Name": "CHEMETALL US INC (FKA OAKITE PRODUCTS INC)",
+        "Petroleum": false,
+        "Petroleum Bulk": false,
+        "Primary Metals": false,
+        "TRIF ID": "90638RDRXN16961",
+        "description": "Toxicity is 37th Highest of 56 Within Chemicals Industry<br><a>Click here for additional details.</a>",
+        "id": "marker-i9tbt4jd2u",
+        "marker-color": "#f1f075",
+        "marker-size": "small",
+        "marker-symbol": "",
+        "title": "CHEMETALL US INC (FKA OAKITE PRODUCTS INC)"
+      },
+      "geometry": {
+        "coordinates": [
+          -118.01142,
+          33.8775
+        ],
+        "type": "Point"
+      },
+      "id": "ci9tbxv5q0169i9lvjsarho07"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Chemicals": true,
+        "Class": "Low",
+        "Description": "Rank 38 of 56 Within Chemicals Industry<br><a>Click here for additional details.</a>",
+        "Fabricated Metals": false,
+        "Industry": "Chemicals         ",
+        "Name": "AIR LIQUIDE INDUSTRIAL USLP",
+        "Petroleum": false,
+        "Petroleum Bulk": false,
+        "Primary Metals": false,
+        "TRIF ID": "90744RLQDC1502W",
+        "description": "Toxicity is 38th Highest of 56 Within Chemicals Industry<br><a>Click here for additional details.</a>",
+        "id": "marker-i9tbt4jd2v",
+        "marker-color": "#f1f075",
+        "marker-size": "small",
+        "marker-symbol": "",
+        "title": "AIR LIQUIDE INDUSTRIAL USLP"
+      },
+      "geometry": {
+        "coordinates": [
+          -118.282778,
+          33.776667
+        ],
+        "type": "Point"
+      },
+      "id": "ci9tbxv5s016ai9lvgkc3zeu2"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Chemicals": true,
+        "Class": "Low",
+        "Description": "Rank 39 of 56 Within Chemicals Industry<br><a>Click here for additional details.</a>",
+        "Fabricated Metals": false,
+        "Industry": "Chemicals         ",
+        "Name": "ECOLAB INC",
+        "Petroleum": false,
+        "Petroleum Bulk": false,
+        "Primary Metals": false,
+        "TRIF ID": "91749CMCCH18383",
+        "description": "Toxicity is 39th Highest of 56 Within Chemicals Industry<br><a>Click here for additional details.</a>",
+        "id": "marker-i9tbt4je2w",
+        "marker-color": "#f1f075",
+        "marker-size": "small",
+        "marker-symbol": "",
+        "title": "ECOLAB INC"
+      },
+      "geometry": {
+        "coordinates": [
+          -117.903052,
+          33.99715
+        ],
+        "type": "Point"
+      },
+      "id": "ci9tbxv5t016bi9lvzokwy1v9"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Chemicals": true,
+        "Class": "Low",
+        "Description": "Rank 40 of 56 Within Chemicals Industry<br><a>Click here for additional details.</a>",
+        "Fabricated Metals": false,
+        "Industry": "Chemicals         ",
+        "Name": "NEUTROGENA CORP",
+        "Petroleum": false,
+        "Petroleum Bulk": false,
+        "Primary Metals": false,
+        "TRIF ID": "90045NTRGN5760W",
+        "description": "Toxicity is 40th Highest of 56 Within Chemicals Industry<br><a>Click here for additional details.</a>",
+        "id": "marker-i9tbt4je2x",
+        "marker-color": "#f1f075",
+        "marker-size": "small",
+        "marker-symbol": "",
+        "title": "NEUTROGENA CORP"
+      },
+      "geometry": {
+        "coordinates": [
+          -118.38311,
+          33.94944
+        ],
+        "type": "Point"
+      },
+      "id": "ci9tbxv5u016ci9lvhqesg48w"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Chemicals": true,
+        "Class": "Low",
+        "Description": "Rank 41 of 56 Within Chemicals Industry<br><a>Click here for additional details.</a>",
+        "Fabricated Metals": false,
+        "Industry": "Chemicals         ",
+        "Name": "ENGINEERED POLYMER SOLUTIONS INC",
+        "Petroleum": false,
+        "Petroleum Bulk": false,
+        "Primary Metals": false,
+        "TRIF ID": "90040THMCC5501E",
+        "description": "Toxicity is 41st Highest of 56 Within Chemicals Industry<br><a>Click here for additional details.</a>",
+        "id": "marker-i9tbt4je2y",
+        "marker-color": "#f1f075",
+        "marker-size": "small",
+        "marker-symbol": "",
+        "title": "ENGINEERED POLYMER SOLUTIONS INC"
+      },
+      "geometry": {
+        "coordinates": [
+          -118.165944,
+          33.987111
+        ],
+        "type": "Point"
+      },
+      "id": "ci9tbxv5v016di9lv8aykjpdg"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Chemicals": true,
+        "Class": "Low",
+        "Description": "Rank 42 of 56 Within Chemicals Industry<br><a>Click here for additional details.</a>",
+        "Fabricated Metals": false,
+        "Industry": "Chemicals         ",
+        "Name": "AMVAC CHEMICAL CORP",
+        "Petroleum": false,
+        "Petroleum Bulk": false,
+        "Primary Metals": false,
+        "TRIF ID": "90023MVCCH4100E",
+        "description": "Toxicity is 42nd Highest of 56 Within Chemicals Industry<br><a>Click here for additional details.</a>",
+        "id": "marker-i9tbt4jf2z",
+        "marker-color": "#f1f075",
+        "marker-size": "small",
+        "marker-symbol": "",
+        "title": "AMVAC CHEMICAL CORP"
+      },
+      "geometry": {
+        "coordinates": [
+          -118.188056,
+          34.009444
+        ],
+        "type": "Point"
+      },
+      "id": "ci9tbxv5x016ei9lvbojd1nyk"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Chemicals": true,
+        "Class": "Low",
+        "Description": "Rank 43 of 56 Within Chemicals Industry<br><a>Click here for additional details.</a>",
+        "Fabricated Metals": false,
+        "Industry": "Chemicals         ",
+        "Name": "INDEPENDENT INK INC",
+        "Petroleum": false,
+        "Petroleum Bulk": false,
+        "Primary Metals": false,
+        "TRIF ID": "90248NDPND14705",
+        "description": "Toxicity is 43rd Highest of 56 Within Chemicals Industry<br><a>Click here for additional details.</a>",
+        "id": "marker-i9tbt4jf30",
+        "marker-color": "#f1f075",
+        "marker-size": "small",
+        "marker-symbol": "",
+        "title": "INDEPENDENT INK INC"
+      },
+      "geometry": {
+        "coordinates": [
+          -118.26529,
+          33.8989
+        ],
+        "type": "Point"
+      },
+      "id": "ci9tbxv63016fi9lv4w3edqoi"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Chemicals": true,
+        "Class": "Low",
+        "Description": "Rank 44 of 56 Within Chemicals Industry<br><a>Click here for additional details.</a>",
+        "Fabricated Metals": false,
+        "Industry": "Chemicals         ",
+        "Name": "ROCKWOOD PIGMENTS NA INC",
+        "Petroleum": false,
+        "Petroleum Bulk": false,
+        "Primary Metals": false,
+        "TRIF ID": "90023DVSCL3700E",
+        "description": "Toxicity is 44th Highest of 56 Within Chemicals Industry<br><a>Click here for additional details.</a>",
+        "id": "marker-i9tbt4jf31",
+        "marker-color": "#f1f075",
+        "marker-size": "small",
+        "marker-symbol": "",
+        "title": "ROCKWOOD PIGMENTS NA INC"
+      },
+      "geometry": {
+        "coordinates": [
+          -118.196,
+          34.01884
+        ],
+        "type": "Point"
+      },
+      "id": "ci9tbxv64016gi9lvqa7o7ndt"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Chemicals": true,
+        "Class": "Low",
+        "Description": "Rank 45 of 56 Within Chemicals Industry<br><a>Click here for additional details.</a>",
+        "Fabricated Metals": false,
+        "Industry": "Chemicals         ",
+        "Name": "PRAXAIR INC",
+        "Petroleum": false,
+        "Petroleum Bulk": false,
+        "Primary Metals": false,
+        "TRIF ID": "90810LQDCR2006E",
+        "description": "Toxicity is 45th Highest of 56 Within Chemicals Industry<br><a>Click here for additional details.</a>",
+        "id": "marker-i9tbt4jg32",
+        "marker-color": "#f1f075",
+        "marker-size": "small",
+        "marker-symbol": "",
+        "title": "PRAXAIR INC"
+      },
+      "geometry": {
+        "coordinates": [
+          -118.23952,
+          33.82428
+        ],
+        "type": "Point"
+      },
+      "id": "ci9tbxv65016hi9lvc5sis8iy"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Chemicals": true,
+        "Class": "Low",
+        "Description": "Rank 46 of 56 Within Chemicals Industry<br><a>Click here for additional details.</a>",
+        "Fabricated Metals": false,
+        "Industry": "Chemicals         ",
+        "Name": "FOUR STAR CHEMICAL",
+        "Petroleum": false,
+        "Petroleum Bulk": false,
+        "Primary Metals": false,
+        "TRIF ID": "90023FRSTR3137E",
+        "description": "Toxicity is 46th Highest of 56 Within Chemicals Industry<br><a>Click here for additional details.</a>",
+        "id": "marker-i9tbt4jg33",
+        "marker-color": "#f1f075",
+        "marker-size": "small",
+        "marker-symbol": "",
+        "title": "FOUR STAR CHEMICAL"
+      },
+      "geometry": {
+        "coordinates": [
+          -118.21571,
+          34.01336
+        ],
+        "type": "Point"
+      },
+      "id": "ci9tbxv67016ii9lvdm37i3er"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Chemicals": true,
+        "Class": "Low",
+        "Description": "Rank 47 of 56 Within Chemicals Industry<br><a>Click here for additional details.</a>",
+        "Fabricated Metals": false,
+        "Industry": "Chemicals         ",
+        "Name": "IPS CORP",
+        "Petroleum": false,
+        "Petroleum Bulk": false,
+        "Primary Metals": false,
+        "TRIF ID": "90248PSCRP17109",
+        "description": "Toxicity is 47th Highest of 56 Within Chemicals Industry<br><a>Click here for additional details.</a>",
+        "id": "marker-i9tbt4jg34",
+        "marker-color": "#f1f075",
+        "marker-size": "small",
+        "marker-symbol": "",
+        "title": "IPS CORP"
+      },
+      "geometry": {
+        "coordinates": [
+          -118.27555,
+          33.87627
+        ],
+        "type": "Point"
+      },
+      "id": "ci9tbxv68016ji9lv5nh34eie"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Chemicals": true,
+        "Class": "Low",
+        "Description": "Rank 48 of 56 Within Chemicals Industry<br><a>Click here for additional details.</a>",
+        "Fabricated Metals": false,
+        "Industry": "Chemicals         ",
+        "Name": "AIR PRODUCTS & CHEMICALS INC",
+        "Petroleum": false,
+        "Petroleum Bulk": false,
+        "Primary Metals": false,
+        "TRIF ID": "90023PCFCN3305E",
+        "description": "Toxicity is 48th Highest of 56 Within Chemicals Industry<br><a>Click here for additional details.</a>",
+        "id": "marker-i9tbt4jh35",
+        "marker-color": "#f1f075",
+        "marker-size": "small",
+        "marker-symbol": "",
+        "title": "AIR PRODUCTS & CHEMICALS INC"
+      },
+      "geometry": {
+        "coordinates": [
+          -118.21293,
+          34.01272
+        ],
+        "type": "Point"
+      },
+      "id": "ci9tbxv69016ki9lvecsrb8a9"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Chemicals": true,
+        "Class": "Low",
+        "Description": "Rank 49 of 56 Within Chemicals Industry<br><a>Click here for additional details.</a>",
+        "Fabricated Metals": false,
+        "Industry": "Chemicals         ",
+        "Name": "PRESTONE PRODUCTS CORP",
+        "Petroleum": false,
+        "Petroleum Bulk": false,
+        "Primary Metals": false,
+        "TRIF ID": "90503FRSTB19500",
+        "description": "Toxicity is 49th Highest of 56 Within Chemicals Industry<br><a>Click here for additional details.</a>",
+        "id": "marker-i9tbt4jh36",
+        "marker-color": "#f1f075",
+        "marker-size": "small",
+        "marker-symbol": "",
+        "title": "PRESTONE PRODUCTS CORP"
+      },
+      "geometry": {
+        "coordinates": [
+          -118.35059,
+          33.85376
+        ],
+        "type": "Point"
+      },
+      "id": "ci9tbxv6a016li9lvzvnh3840"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Chemicals": true,
+        "Class": "Low",
+        "Description": "Rank 50 of 56 Within Chemicals Industry<br><a>Click here for additional details.</a>",
+        "Fabricated Metals": false,
+        "Industry": "Chemicals         ",
+        "Name": "HASA INC",
+        "Petroleum": false,
+        "Petroleum Bulk": false,
+        "Primary Metals": false,
+        "TRIF ID": "91350HSNC 23119",
+        "description": "Toxicity is 50th Highest of 56 Within Chemicals Industry<br><a>Click here for additional details.</a>",
+        "id": "marker-i9tbt4jh37",
+        "marker-color": "#f1f075",
+        "marker-size": "small",
+        "marker-symbol": "",
+        "title": "HASA INC"
+      },
+      "geometry": {
+        "coordinates": [
+          -118.539722,
+          34.411667
+        ],
+        "type": "Point"
+      },
+      "id": "ci9tbxv6c016mi9lvezhkqokv"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Chemicals": true,
+        "Class": "Low",
+        "Description": "Rank 51 of 56 Within Chemicals Industry<br><a>Click here for additional details.</a>",
+        "Fabricated Metals": false,
+        "Industry": "Chemicals         ",
+        "Name": "PCCR USA INC",
+        "Petroleum": false,
+        "Petroleum Bulk": false,
+        "Primary Metals": false,
+        "TRIF ID": "90262CRGLL2801L",
+        "description": "Toxicity is 51st Highest of 56 Within Chemicals Industry<br><a>Click here for additional details.</a>",
+        "id": "marker-i9tbt4ji38",
+        "marker-color": "#f1f075",
+        "marker-size": "small",
+        "marker-symbol": "",
+        "title": "PCCR USA INC"
+      },
+      "geometry": {
+        "coordinates": [
+          -118.2221,
+          33.92593
+        ],
+        "type": "Point"
+      },
+      "id": "ci9tbxv6d016ni9lvasf22217"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Chemicals": true,
+        "Class": "Low",
+        "Description": "Rank 52 of 56 Within Chemicals Industry<br><a>Click here for additional details.</a>",
+        "Fabricated Metals": false,
+        "Industry": "Chemicals         ",
+        "Name": "SOLVAY USA INC",
+        "Petroleum": false,
+        "Petroleum Bulk": false,
+        "Primary Metals": false,
+        "TRIF ID": "90801LNZNC20851",
+        "description": "Toxicity is 52nd Highest of 56 Within Chemicals Industry<br><a>Click here for additional details.</a>",
+        "id": "marker-i9tbt4ji39",
+        "marker-color": "#f1f075",
+        "marker-size": "small",
+        "marker-symbol": "",
+        "title": "SOLVAY USA INC"
+      },
+      "geometry": {
+        "coordinates": [
+          -118.216389,
+          33.843611
+        ],
+        "type": "Point"
+      },
+      "id": "ci9tbxv6e016oi9lvky2ra0zo"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Chemicals": true,
+        "Class": "Low",
+        "Description": "Rank 53 of 56 Within Chemicals Industry<br><a>Click here for additional details.</a>",
+        "Fabricated Metals": false,
+        "Industry": "Chemicals         ",
+        "Name": "AIRGAS DRY ICE",
+        "Petroleum": false,
+        "Petroleum Bulk": false,
+        "Primary Metals": false,
+        "TRIF ID": "90503RGSDR3535D",
+        "description": "Toxicity is 53rd Highest of 56 Within Chemicals Industry<br><a>Click here for additional details.</a>",
+        "id": "marker-i9tbt4ji3a",
+        "marker-color": "#f1f075",
+        "marker-size": "small",
+        "marker-symbol": "",
+        "title": "AIRGAS DRY ICE"
+      },
+      "geometry": {
+        "coordinates": [
+          -118.329701,
+          33.847065
+        ],
+        "type": "Point"
+      },
+      "id": "ci9tbxv6g016pi9lvhr4rnbmm"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Chemicals": true,
+        "Class": "Low",
+        "Description": "Rank 54 of 56 Within Chemicals Industry<br><a>Click here for additional details.</a>",
+        "Fabricated Metals": false,
+        "Industry": "Chemicals         ",
+        "Name": "HILL BROTHERS CHEMICAL CO",
+        "Petroleum": false,
+        "Petroleum Bulk": false,
+        "Primary Metals": false,
+        "TRIF ID": "91745HLLBR15017",
+        "description": "Toxicity is 54th Highest of 56 Within Chemicals Industry<br><a>Click here for additional details.</a>",
+        "id": "marker-i9tbt4jj3b",
+        "marker-color": "#f1f075",
+        "marker-size": "small",
+        "marker-symbol": "",
+        "title": "HILL BROTHERS CHEMICAL CO"
+      },
+      "geometry": {
+        "coordinates": [
+          -117.97675,
+          34.01958
+        ],
+        "type": "Point"
+      },
+      "id": "ci9tbxv6h016qi9lvyqd6zyqo"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Chemicals": true,
+        "Class": "Low",
+        "Description": "Rank 55 of 56 Within Chemicals Industry<br><a>Click here for additional details.</a>",
+        "Fabricated Metals": false,
+        "Industry": "Chemicals         ",
+        "Name": "ARKEMA COATING RESINS PLANT",
+        "Petroleum": false,
+        "Petroleum Bulk": false,
+        "Primary Metals": false,
+        "TRIF ID": "90503NNCRB19206",
+        "description": "Toxicity is 55th Highest of 56 Within Chemicals Industry<br><a>Click here for additional details.</a>",
+        "id": "marker-i9tbt4jj3c",
+        "marker-color": "#f1f075",
+        "marker-size": "small",
+        "marker-symbol": "",
+        "title": "ARKEMA COATING RESINS PLANT"
+      },
+      "geometry": {
+        "coordinates": [
+          -118.34999,
+          33.855598
+        ],
+        "type": "Point"
+      },
+      "id": "ci9tbxv6i016ri9lvwo5r0pd3"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Chemicals": true,
+        "Class": "Low",
+        "Description": "Rank 56 of 56 Within Chemicals Industry<br><a>Click here for additional details.</a>",
+        "Fabricated Metals": false,
+        "Industry": "Chemicals         ",
+        "Name": "NALCO CO",
+        "Petroleum": false,
+        "Petroleum Bulk": false,
+        "Primary Metals": false,
+        "TRIF ID": "90745NLCCH2111E",
+        "description": "Toxicity is 56th Highest of 56 Within Chemicals Industry<br><a>Click here for additional details.</a>",
+        "id": "marker-i9tbt4jj3d",
+        "marker-color": "#f1f075",
+        "marker-size": "small",
+        "marker-symbol": "",
+        "title": "NALCO CO"
+      },
+      "geometry": {
+        "coordinates": [
+          -118.23044,
+          33.83922
+        ],
+        "type": "Point"
+      },
+      "id": "ci9tbxv6j016si9lvsrl307ps"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Chemicals": false,
+        "Class": "Low",
+        "Description": "Rank 18 of 35 Within Fabricated Metals Industry<br><a>Click here for additional details.</a>",
+        "Fabricated Metals": true,
+        "Industry": "Fabricated Metals",
+        "Name": "AIRCRAFT X-RAY LABORATORIES INC",
+        "Petroleum": false,
+        "Petroleum Bulk": false,
+        "Primary Metals": false,
+        "TRIF ID": "90255RCRFT5216P",
+        "description": "Toxicity is 18th Highest of 35 Within Fabricated Metals Industry<br><a>Click here for additional details.</a>",
+        "id": "marker-i9tbtqs63v",
+        "marker-color": "#f1f075",
+        "marker-size": "small",
+        "marker-symbol": "",
+        "title": "AIRCRAFT X-RAY LABORATORIES INC"
+      },
+      "geometry": {
+        "coordinates": [
+          -118.22526,
+          33.99519
+        ],
+        "type": "Point"
+      },
+      "id": "ci9tbxv6l016ti9lvpjee3bk4"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Chemicals": false,
+        "Class": "High",
+        "Description": "Rank 1 of 35 Within Fabricated Metals Industry<br><a>Click here for additional details.</a>",
+        "Fabricated Metals": true,
+        "Industry": "Fabricated Metals",
+        "Name": "ALCOA GLOBAL FASTENERS INC",
+        "Petroleum": false,
+        "Petroleum Bulk": false,
+        "Primary Metals": false,
+        "TRIF ID": "91744LCGLB135NU",
+        "description": "Toxicity is 1st Highest of 35 Within Fabricated Metals Industry<br><a>Click here for additional details.</a>",
+        "id": "marker-i9tbtqru3e",
+        "marker-color": "#f86767",
+        "marker-size": "large",
+        "marker-symbol": "",
+        "title": "ALCOA GLOBAL FASTENERS INC"
+      },
+      "geometry": {
+        "coordinates": [
+          -117.96383,
+          34.02877
+        ],
+        "type": "Point"
+      },
+      "id": "ci9tbxv6m016ui9lvr9z8hebe"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Chemicals": false,
+        "Class": "Medium",
+        "Description": "Rank 3 of 35 Within Fabricated Metals Industry<br><a>Click here for additional details.</a>",
+        "Fabricated Metals": true,
+        "Industry": "Fabricated Metals",
+        "Name": "CARLTON FORGE WORKS",
+        "Petroleum": false,
+        "Petroleum Bulk": false,
+        "Primary Metals": false,
+        "TRIF ID": "90723CRLTN7743E",
+        "description": "Toxicity is 3rd Highest of 35 Within Fabricated Metals Industry<br><a>Click here for additional details.</a>",
+        "id": "marker-i9tbtqrx3g",
+        "marker-color": "#f5c272",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "CARLTON FORGE WORKS"
+      },
+      "geometry": {
+        "coordinates": [
+          -118.16474,
+          33.89479
+        ],
+        "type": "Point"
+      },
+      "id": "ci9tbxv6n016vi9lvypkq0c2k"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Chemicals": false,
+        "Class": "Low",
+        "Description": "Rank 4 of 35 Within Fabricated Metals Industry<br><a>Click here for additional details.</a>",
+        "Fabricated Metals": true,
+        "Industry": "Fabricated Metals",
+        "Name": "SHULTZ STEEL CO",
+        "Petroleum": false,
+        "Petroleum Bulk": false,
+        "Primary Metals": false,
+        "TRIF ID": "90280SHLTZ5321F",
+        "description": "Toxicity is 4th Highest of 35 Within Fabricated Metals Industry<br><a>Click here for additional details.</a>",
+        "id": "marker-i9tbtqrx3h",
+        "marker-color": "#f1f075",
+        "marker-size": "small",
+        "marker-symbol": "",
+        "title": "SHULTZ STEEL CO"
+      },
+      "geometry": {
+        "coordinates": [
+          -118.17453,
+          33.94861
+        ],
+        "type": "Point"
+      },
+      "id": "ci9tbxv6p016wi9lvg10juubm"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Chemicals": false,
+        "Class": "Low",
+        "Description": "Rank 5 of 35 Within Fabricated Metals Industry<br><a>Click here for additional details.</a>",
+        "Fabricated Metals": true,
+        "Industry": "Fabricated Metals",
+        "Name": "REXAM BEVERAGE CAN CO RE: CHATSWORTH FACILITY",
+        "Petroleum": false,
+        "Petroleum Bulk": false,
+        "Primary Metals": false,
+        "TRIF ID": "91311MRCNN20730",
+        "description": "Toxicity is 5th Highest of 35 Within Fabricated Metals Industry<br><a>Click here for additional details.</a>",
+        "id": "marker-i9tbtqry3i",
+        "marker-color": "#f1f075",
+        "marker-size": "small",
+        "marker-symbol": "",
+        "title": "REXAM BEVERAGE CAN CO RE: CHATSWORTH FACILITY"
+      },
+      "geometry": {
+        "coordinates": [
+          -118.58433,
+          34.24088
+        ],
+        "type": "Point"
+      },
+      "id": "ci9tbxv6q016xi9lv2u24wesi"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Chemicals": false,
+        "Class": "Low",
+        "Description": "Rank 6 of 35 Within Fabricated Metals Industry<br><a>Click here for additional details.</a>",
+        "Fabricated Metals": true,
+        "Industry": "Fabricated Metals",
+        "Name": "ARDAGH METAL PACKAGING USA INC",
+        "Petroleum": false,
+        "Petroleum Bulk": false,
+        "Primary Metals": false,
+        "TRIF ID": "90731MPRSS936BA",
+        "description": "Toxicity is 6th Highest of 35 Within Fabricated Metals Industry<br><a>Click here for additional details.</a>",
+        "id": "marker-i9tbtqry3j",
+        "marker-color": "#f1f075",
+        "marker-size": "small",
+        "marker-symbol": "",
+        "title": "ARDAGH METAL PACKAGING USA INC"
+      },
+      "geometry": {
+        "coordinates": [
+          -118.263918,
+          33.737967
+        ],
+        "type": "Point"
+      },
+      "id": "ci9tbxv6r016yi9lvgli4ysuu"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Chemicals": false,
+        "Class": "Low",
+        "Description": "Rank 7 of 35 Within Fabricated Metals Industry<br><a>Click here for additional details.</a>",
+        "Fabricated Metals": true,
+        "Industry": "Fabricated Metals",
+        "Name": "METAL SURFACES INC",
+        "Petroleum": false,
+        "Petroleum Bulk": false,
+        "Primary Metals": false,
+        "TRIF ID": "90201MTLSR6060S",
+        "description": "Toxicity is 7th Highest of 35 Within Fabricated Metals Industry<br><a>Click here for additional details.</a>",
+        "id": "marker-i9tbtqrz3k",
+        "marker-color": "#f1f075",
+        "marker-size": "small",
+        "marker-symbol": "",
+        "title": "METAL SURFACES INC"
+      },
+      "geometry": {
+        "coordinates": [
+          -118.15804,
+          33.95423
+        ],
+        "type": "Point"
+      },
+      "id": "ci9tbxv6t016zi9lvxtej7vlz"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Chemicals": false,
+        "Class": "Low",
+        "Description": "Rank 8 of 35 Within Fabricated Metals Industry<br><a>Click here for additional details.</a>",
+        "Fabricated Metals": true,
+        "Industry": "Fabricated Metals",
+        "Name": "VALLEY PLATING WORKS INC",
+        "Petroleum": false,
+        "Petroleum Bulk": false,
+        "Primary Metals": false,
+        "TRIF ID": "90040VLLYP5900S",
+        "description": "Toxicity is 8th Highest of 35 Within Fabricated Metals Industry<br><a>Click here for additional details.</a>",
+        "id": "marker-i9tbtqs03l",
+        "marker-color": "#f1f075",
+        "marker-size": "small",
+        "marker-symbol": "",
+        "title": "VALLEY PLATING WORKS INC"
+      },
+      "geometry": {
+        "coordinates": [
+          -118.15199,
+          33.99672
+        ],
+        "type": "Point"
+      },
+      "id": "ci9tbxv6u0170i9lvnypaz0pm"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Chemicals": false,
+        "Class": "Low",
+        "Description": "Rank 9 of 35 Within Fabricated Metals Industry<br><a>Click here for additional details.</a>",
+        "Fabricated Metals": true,
+        "Industry": "Fabricated Metals",
+        "Name": "SURFACE TREATMENT & INSPECTION (ST&I) INC",
+        "Petroleum": false,
+        "Petroleum Bulk": false,
+        "Primary Metals": false,
+        "TRIF ID": "90723STNC 7517J",
+        "description": "Toxicity is 9th Highest of 35 Within Fabricated Metals Industry<br><a>Click here for additional details.</a>",
+        "id": "marker-i9tbtqs03m",
+        "marker-color": "#f1f075",
+        "marker-size": "small",
+        "marker-symbol": "",
+        "title": "SURFACE TREATMENT & INSPECTION (ST&I) INC"
+      },
+      "geometry": {
+        "coordinates": [
+          -118.16811,
+          33.89289
+        ],
+        "type": "Point"
+      },
+      "id": "ci9tbxv6v0171i9lvgf97vmnb"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Chemicals": false,
+        "Class": "Low",
+        "Description": "Rank 10 of 35 Within Fabricated Metals Industry<br><a>Click here for additional details.</a>",
+        "Fabricated Metals": true,
+        "Industry": "Fabricated Metals",
+        "Name": "TRIUMPH PROCESSING INC",
+        "Petroleum": false,
+        "Petroleum Bulk": false,
+        "Primary Metals": false,
+        "TRIF ID": "90262DVNDS2605I",
+        "description": "Toxicity is 10th Highest of 35 Within Fabricated Metals Industry<br><a>Click here for additional details.</a>",
+        "id": "marker-i9tbtqs13n",
+        "marker-color": "#f1f075",
+        "marker-size": "small",
+        "marker-symbol": "",
+        "title": "TRIUMPH PROCESSING INC"
+      },
+      "geometry": {
+        "coordinates": [
+          -118.22696,
+          33.92348
+        ],
+        "type": "Point"
+      },
+      "id": "ci9tbxv6w0172i9lvqafbpygw"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Chemicals": false,
+        "Class": "Low",
+        "Description": "Rank 11 of 35 Within Fabricated Metals Industry<br><a>Click here for additional details.</a>",
+        "Fabricated Metals": true,
+        "Industry": "Fabricated Metals",
+        "Name": "GEORGE INDUSTRIES",
+        "Petroleum": false,
+        "Petroleum Bulk": false,
+        "Primary Metals": false,
+        "TRIF ID": "90063GRGND4116W",
+        "description": "Toxicity is 11th Highest of 35 Within Fabricated Metals Industry<br><a>Click here for additional details.</a>",
+        "id": "marker-i9tbtqs23o",
+        "marker-color": "#f1f075",
+        "marker-size": "small",
+        "marker-symbol": "",
+        "title": "GEORGE INDUSTRIES"
+      },
+      "geometry": {
+        "coordinates": [
+          -118.17778,
+          34.05987
+        ],
+        "type": "Point"
+      },
+      "id": "ci9tbxv6x0173i9lvh91tiaav"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Chemicals": false,
+        "Class": "Low",
+        "Description": "Rank 12 of 35 Within Fabricated Metals Industry<br><a>Click here for additional details.</a>",
+        "Fabricated Metals": true,
+        "Industry": "Fabricated Metals",
+        "Name": "MAXIMA ENTERPRISES INC",
+        "Petroleum": false,
+        "Petroleum Bulk": false,
+        "Primary Metals": false,
+        "TRIF ID": "90710PRMWH23920",
+        "description": "Toxicity is 12th Highest of 35 Within Fabricated Metals Industry<br><a>Click here for additional details.</a>",
+        "id": "marker-i9tbtqs33p",
+        "marker-color": "#f1f075",
+        "marker-size": "small",
+        "marker-symbol": "",
+        "title": "MAXIMA ENTERPRISES INC"
+      },
+      "geometry": {
+        "coordinates": [
+          -118.2903,
+          33.808
+        ],
+        "type": "Point"
+      },
+      "id": "ci9tbxv6y0174i9lv6wgp583m"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Chemicals": false,
+        "Class": "Low",
+        "Description": "Rank 13 of 35 Within Fabricated Metals Industry<br><a>Click here for additional details.</a>",
+        "Fabricated Metals": true,
+        "Industry": "Fabricated Metals",
+        "Name": "ARCADIA INC",
+        "Petroleum": false,
+        "Petroleum Bulk": false,
+        "Primary Metals": false,
+        "TRIF ID": "90023RCDNC3225E",
+        "description": "Toxicity is 13th Highest of 35 Within Fabricated Metals Industry<br><a>Click here for additional details.</a>",
+        "id": "marker-i9tbtqs33q",
+        "marker-color": "#f1f075",
+        "marker-size": "small",
+        "marker-symbol": "",
+        "title": "ARCADIA INC"
+      },
+      "geometry": {
+        "coordinates": [
+          -118.20909,
+          34.01445
+        ],
+        "type": "Point"
+      },
+      "id": "ci9tbxv6y0175i9lve0rzhnpd"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Chemicals": false,
+        "Class": "Low",
+        "Description": "Rank 14 of 35 Within Fabricated Metals Industry<br><a>Click here for additional details.</a>",
+        "Fabricated Metals": true,
+        "Industry": "Fabricated Metals",
+        "Name": "CERTIFIED ENAMELING INC",
+        "Petroleum": false,
+        "Petroleum Bulk": false,
+        "Primary Metals": false,
+        "TRIF ID": "90023CRTFD3342E",
+        "description": "Toxicity is 14th Highest of 35 Within Fabricated Metals Industry<br><a>Click here for additional details.</a>",
+        "id": "marker-i9tbtqs43r",
+        "marker-color": "#f1f075",
+        "marker-size": "small",
+        "marker-symbol": "",
+        "title": "CERTIFIED ENAMELING INC"
+      },
+      "geometry": {
+        "coordinates": [
+          -118.20742,
+          34.01578
+        ],
+        "type": "Point"
+      },
+      "id": "ci9tbxv6z0176i9lv3dg0wmc5"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Chemicals": false,
+        "Class": "Low",
+        "Description": "Rank 15 of 35 Within Fabricated Metals Industry<br><a>Click here for additional details.</a>",
+        "Fabricated Metals": true,
+        "Industry": "Fabricated Metals",
+        "Name": "REDMAN EQUIPMENT & MANUFACTURING CO",
+        "Petroleum": false,
+        "Petroleum Bulk": false,
+        "Primary Metals": false,
+        "TRIF ID": "90502RDMNQ198NR",
+        "description": "Toxicity is 15th Highest of 35 Within Fabricated Metals Industry<br><a>Click here for additional details.</a>",
+        "id": "marker-i9tbtqs53s",
+        "marker-color": "#f1f075",
+        "marker-size": "small",
+        "marker-symbol": "",
+        "title": "REDMAN EQUIPMENT & MANUFACTURING CO"
+      },
+      "geometry": {
+        "coordinates": [
+          -118.29924,
+          33.851743
+        ],
+        "type": "Point"
+      },
+      "id": "ci9tbxv700177i9lv966g9pns"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Chemicals": false,
+        "Class": "Low",
+        "Description": "Rank 16 of 35 Within Fabricated Metals Industry<br><a>Click here for additional details.</a>",
+        "Fabricated Metals": true,
+        "Industry": "Fabricated Metals",
+        "Name": "BODYCOTE THERMAL PROCESSING",
+        "Petroleum": false,
+        "Petroleum Bulk": false,
+        "Primary Metals": false,
+        "TRIF ID": "90255NDSTR3370B",
+        "description": "Toxicity is 16th Highest of 35 Within Fabricated Metals Industry<br><a>Click here for additional details.</a>",
+        "id": "marker-i9tbtqs53t",
+        "marker-color": "#f1f075",
+        "marker-size": "small",
+        "marker-symbol": "",
+        "title": "BODYCOTE THERMAL PROCESSING"
+      },
+      "geometry": {
+        "coordinates": [
+          -118.20488,
+          33.98204
+        ],
+        "type": "Point"
+      },
+      "id": "ci9tbxv710178i9lvrws5o1xi"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Chemicals": false,
+        "Class": "Low",
+        "Description": "Rank 17 of 35 Within Fabricated Metals Industry<br><a>Click here for additional details.</a>",
+        "Fabricated Metals": true,
+        "Industry": "Fabricated Metals",
+        "Name": "ARROWHEAD BRASS & PLUMBING LLC",
+        "Petroleum": false,
+        "Petroleum Bulk": false,
+        "Primary Metals": false,
+        "TRIF ID": "90032RRWHD5142A",
+        "description": "Toxicity is 17th Highest of 35 Within Fabricated Metals Industry<br><a>Click here for additional details.</a>",
+        "id": "marker-i9tbtqs63u",
+        "marker-color": "#f1f075",
+        "marker-size": "small",
+        "marker-symbol": "",
+        "title": "ARROWHEAD BRASS & PLUMBING LLC"
+      },
+      "geometry": {
+        "coordinates": [
+          -118.173777,
+          34.072427
+        ],
+        "type": "Point"
+      },
+      "id": "ci9tbxv720179i9lvy5rbef38"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Chemicals": false,
+        "Class": "Medium",
+        "Description": "Rank 2 of 35 Within Fabricated Metals Industry<br><a>Click here for additional details.</a>",
+        "Fabricated Metals": true,
+        "Industry": "Fabricated Metals",
+        "Name": "AERO-ELECTRIC CONNECTOR INC",
+        "Petroleum": false,
+        "Petroleum Bulk": false,
+        "Primary Metals": false,
+        "TRIF ID": "90501CNSYS548AM",
+        "description": "Toxicity is 2nd Highest of 35 Within Fabricated Metals Industry<br><a>Click here for additional details.</a>",
+        "id": "marker-i9tbtqrv3f",
+        "marker-color": "#f5c272",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "AERO-ELECTRIC CONNECTOR INC"
+      },
+      "geometry": {
+        "coordinates": [
+          -118.32349,
+          33.843
+        ],
+        "type": "Point"
+      },
+      "id": "ci9tbxv73017ai9lv0wy506bx"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Chemicals": false,
+        "Class": "Low",
+        "Description": "Rank 19 of 35 Within Fabricated Metals Industry<br><a>Click here for additional details.</a>",
+        "Fabricated Metals": true,
+        "Industry": "Fabricated Metals",
+        "Name": "ALCOA FASTENING SYSTEMS",
+        "Petroleum": false,
+        "Petroleum Bulk": false,
+        "Primary Metals": false,
+        "TRIF ID": "90505RXNRD3000W",
+        "description": "Toxicity is 19th Highest of 35 Within Fabricated Metals Industry<br><a>Click here for additional details.</a>",
+        "id": "marker-i9tbtqs73w",
+        "marker-color": "#f1f075",
+        "marker-size": "small",
+        "marker-symbol": "",
+        "title": "ALCOA FASTENING SYSTEMS"
+      },
+      "geometry": {
+        "coordinates": [
+          -118.3393,
+          33.81073
+        ],
+        "type": "Point"
+      },
+      "id": "ci9tbxv74017bi9lvo8c4f6b0"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Chemicals": false,
+        "Class": "Low",
+        "Description": "Rank 20 of 35 Within Fabricated Metals Industry<br><a>Click here for additional details.</a>",
+        "Fabricated Metals": true,
+        "Industry": "Fabricated Metals",
+        "Name": "QUAKER CITY PLATING/ SILVER SMITH LTD",
+        "Petroleum": false,
+        "Petroleum Bulk": false,
+        "Primary Metals": false,
+        "TRIF ID": "90606QKRCT11729",
+        "description": "Toxicity is 20th Highest of 35 Within Fabricated Metals Industry<br><a>Click here for additional details.</a>",
+        "id": "marker-i9tbtqs83x",
+        "marker-color": "#f1f075",
+        "marker-size": "small",
+        "marker-symbol": "",
+        "title": "QUAKER CITY PLATING/ SILVER SMITH LTD"
+      },
+      "geometry": {
+        "coordinates": [
+          -118.061582,
+          33.969725
+        ],
+        "type": "Point"
+      },
+      "id": "ci9tbxv75017ci9lvlys28zth"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Chemicals": false,
+        "Class": "Low",
+        "Description": "Rank 21 of 35 Within Fabricated Metals Industry<br><a>Click here for additional details.</a>Rank 21",
+        "Fabricated Metals": true,
+        "Industry": "Fabricated Metals",
+        "Name": "VALMONT COATINGS CALWEST GALVANIZING",
+        "Petroleum": false,
+        "Petroleum Bulk": false,
+        "Primary Metals": false,
+        "TRIF ID": "90810CLWST2226E",
+        "description": "Toxicity is 21st Highest of 35 Within Fabricated Metals Industry<br><a>Click here for additional details.</a>Rank 21",
+        "id": "marker-i9tbtqs83y",
+        "marker-color": "#f1f075",
+        "marker-size": "small",
+        "marker-symbol": "",
+        "title": "VALMONT COATINGS CALWEST GALVANIZING"
+      },
+      "geometry": {
+        "coordinates": [
+          -118.23012,
+          33.83922
+        ],
+        "type": "Point"
+      },
+      "id": "ci9tbxv76017di9lvk8m82ft3"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Chemicals": false,
+        "Class": "Low",
+        "Description": "Rank 22 of 35 Within Fabricated Metals Industry<br><a>Click here for additional details.</a>",
+        "Fabricated Metals": true,
+        "Industry": "Fabricated Metals",
+        "Name": "ATLAS GALVANIZING LLC",
+        "Petroleum": false,
+        "Petroleum Bulk": false,
+        "Primary Metals": false,
+        "TRIF ID": "90058TLSGL2639L",
+        "description": "Toxicity is 22nd Highest of 35 Within Fabricated Metals Industry<br><a>Click here for additional details.</a>",
+        "id": "marker-i9tbtqs93z",
+        "marker-color": "#f1f075",
+        "marker-size": "small",
+        "marker-symbol": "",
+        "title": "ATLAS GALVANIZING LLC"
+      },
+      "geometry": {
+        "coordinates": [
+          -118.22377,
+          34.00002
+        ],
+        "type": "Point"
+      },
+      "id": "ci9tbxv77017ei9lvxbj8jeap"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Chemicals": false,
+        "Class": "Low",
+        "Description": "Rank 23 of 35 Within Fabricated Metals Industry<br><a>Click here for additional details.</a>",
+        "Fabricated Metals": true,
+        "Industry": "Fabricated Metals",
+        "Name": "PICO RIVERA PLATING INC",
+        "Petroleum": false,
+        "Petroleum Bulk": false,
+        "Primary Metals": false,
+        "TRIF ID": "90660PCRVR9307E",
+        "description": "Toxicity is 23rd Highest of 35 Within Fabricated Metals Industry<br><a>Click here for additional details.</a>",
+        "id": "marker-i9tbtqs940",
+        "marker-color": "#f1f075",
+        "marker-size": "small",
+        "marker-symbol": "",
+        "title": "PICO RIVERA PLATING INC"
+      },
+      "geometry": {
+        "coordinates": [
+          -118.09788,
+          33.96984
+        ],
+        "type": "Point"
+      },
+      "id": "ci9tbxv78017fi9lvoh1iu1ou"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Chemicals": false,
+        "Class": "Low",
+        "Description": "Rank 24 of 35 Within Fabricated Metals Industry<br><a>Click here for additional details.</a>",
+        "Fabricated Metals": true,
+        "Industry": "Fabricated Metals",
+        "Name": "ALLOY PROCESSING",
+        "Petroleum": false,
+        "Petroleum Bulk": false,
+        "Primary Metals": false,
+        "TRIF ID": "9022WLLYPR19WWA",
+        "description": "Toxicity is 24th Highest of 35 Within Fabricated Metals Industry<br><a>Click here for additional details.</a>",
+        "id": "marker-i9tbtqsa41",
+        "marker-color": "#f1f075",
+        "marker-size": "small",
+        "marker-symbol": "",
+        "title": "ALLOY PROCESSING"
+      },
+      "geometry": {
+        "coordinates": [
+          -118.24713,
+          33.87551
+        ],
+        "type": "Point"
+      },
+      "id": "ci9tbxv79017gi9lv9n3u79p2"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Chemicals": false,
+        "Class": "Low",
+        "Description": "Rank 25 of 35 Within Fabricated Metals Industry<br><a>Click here for additional details.</a>",
+        "Fabricated Metals": true,
+        "Industry": "Fabricated Metals",
+        "Name": "CHROMAL PLATING CO",
+        "Petroleum": false,
+        "Petroleum Bulk": false,
+        "Primary Metals": false,
+        "TRIF ID": "90031CHRML1748W",
+        "description": "Toxicity is 25th Highest of 35 Within Fabricated Metals Industry<br><a>Click here for additional details.</a>",
+        "id": "marker-i9tbtqsb42",
+        "marker-color": "#f1f075",
+        "marker-size": "small",
+        "marker-symbol": "",
+        "title": "CHROMAL PLATING CO"
+      },
+      "geometry": {
+        "coordinates": [
+          -118.21409,
+          34.06256
+        ],
+        "type": "Point"
+      },
+      "id": "ci9tbxv7a017hi9lvjhyzzo05"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Chemicals": false,
+        "Class": "Low",
+        "Description": "Rank 26 of 35 Within Fabricated Metals Industry<br><a>Click here for additional details.</a>",
+        "Fabricated Metals": true,
+        "Industry": "Fabricated Metals",
+        "Name": "LOS ANGELES GALVANIZING CO",
+        "Petroleum": false,
+        "Petroleum Bulk": false,
+        "Primary Metals": false,
+        "TRIF ID": "90255LSNGL2524E",
+        "description": "Toxicity is 26th Highest of 35 Within Fabricated Metals Industry<br><a>Click here for additional details.</a>",
+        "id": "marker-i9tbtqsb43",
+        "marker-color": "#f1f075",
+        "marker-size": "small",
+        "marker-symbol": "",
+        "title": "LOS ANGELES GALVANIZING CO"
+      },
+      "geometry": {
+        "coordinates": [
+          -118.22663,
+          33.99569
+        ],
+        "type": "Point"
+      },
+      "id": "ci9tbxv7b017ii9lvghf8exlb"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Chemicals": false,
+        "Class": "Low",
+        "Description": "Rank 27 of 35 Within Fabricated Metals Industry<br><a>Click here for additional details.</a>",
+        "Fabricated Metals": true,
+        "Industry": "Fabricated Metals",
+        "Name": "DESIGNED METAL CONNECTIONS",
+        "Petroleum": false,
+        "Petroleum Bulk": false,
+        "Primary Metals": false,
+        "TRIF ID": "90248DTSCH14800",
+        "description": "Toxicity is 27th Highest of 35 Within Fabricated Metals Industry<br><a>Click here for additional details.</a>",
+        "id": "marker-i9tbtqsc44",
+        "marker-color": "#f1f075",
+        "marker-size": "small",
+        "marker-symbol": "",
+        "title": "DESIGNED METAL CONNECTIONS"
+      },
+      "geometry": {
+        "coordinates": [
+          -118.28305,
+          33.89906
+        ],
+        "type": "Point"
+      },
+      "id": "ci9tbxv7c017ji9lviosix9x9"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Chemicals": false,
+        "Class": "Low",
+        "Description": "Rank 28 of 35 Within Fabricated Metals Industry<br><a>Click here for additional details.</a>",
+        "Fabricated Metals": true,
+        "Industry": "Fabricated Metals",
+        "Name": "EME INC",
+        "Petroleum": false,
+        "Petroleum Bulk": false,
+        "Primary Metals": false,
+        "TRIF ID": "90221MNC  431OA",
+        "description": "Toxicity is 28th Highest of 35 Within Fabricated Metals Industry<br><a>Click here for additional details.</a>",
+        "id": "marker-i9tbtqsd45",
+        "marker-color": "#f1f075",
+        "marker-size": "small",
+        "marker-symbol": "",
+        "title": "EME INC"
+      },
+      "geometry": {
+        "coordinates": [
+          -118.21948,
+          33.90929
+        ],
+        "type": "Point"
+      },
+      "id": "ci9tbxv7d017ki9lvntkv1q48"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Chemicals": false,
+        "Class": "Low",
+        "Description": "Rank 29 of 35 Within Fabricated Metals Industry<br><a>Click here for additional details.</a>",
+        "Fabricated Metals": true,
+        "Industry": "Fabricated Metals",
+        "Name": "ALLOYS CLEANING INC",
+        "Petroleum": false,
+        "Petroleum Bulk": false,
+        "Primary Metals": false,
+        "TRIF ID": "90001LLYSC1960E",
+        "description": "Toxicity is 29th Highest of 35 Within Fabricated Metals Industry<br><a>Click here for additional details.</a>",
+        "id": "marker-i9tbtqsd46",
+        "marker-color": "#f1f075",
+        "marker-size": "small",
+        "marker-symbol": "",
+        "title": "ALLOYS CLEANING INC"
+      },
+      "geometry": {
+        "coordinates": [
+          -118.238056,
+          33.981389
+        ],
+        "type": "Point"
+      },
+      "id": "ci9tbxw8c017li9lv9u1izlzf"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Chemicals": false,
+        "Class": "Low",
+        "Description": "Rank 30 of 35 Within Fabricated Metals Industry<br><a>Click here for additional details.</a>",
+        "Fabricated Metals": true,
+        "Industry": "Fabricated Metals",
+        "Name": "HUCK INTERNATIONAL INC DBA ALCOA FASTENING SYSTEMS",
+        "Petroleum": false,
+        "Petroleum Bulk": false,
+        "Primary Metals": false,
+        "TRIF ID": "90745HCKMN900WA",
+        "description": "Toxicity is 30th Highest of 35 Within Fabricated Metals Industry<br><a>Click here for additional details.</a>",
+        "id": "marker-i9tbtqse47",
+        "marker-color": "#f1f075",
+        "marker-size": "small",
+        "marker-symbol": "",
+        "title": "HUCK INTERNATIONAL INC DBA ALCOA FASTENING SYSTEMS"
+      },
+      "geometry": {
+        "coordinates": [
+          -118.25893,
+          33.82014
+        ],
+        "type": "Point"
+      },
+      "id": "ci9tbxw8f017mi9lvsxhg0mcn"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Chemicals": false,
+        "Class": "Low",
+        "Description": "Rank 31 of 35 Within Fabricated Metals Industry<br><a>Click here for additional details.</a>",
+        "Fabricated Metals": true,
+        "Industry": "Fabricated Metals",
+        "Name": "ALERT PLATING CO",
+        "Petroleum": false,
+        "Petroleum Bulk": false,
+        "Primary Metals": false,
+        "TRIF ID": "91352LRTPL9939G",
+        "description": "Toxicity is 31st Highest of 35 Within Fabricated Metals Industry<br><a>Click here for additional details.</a>",
+        "id": "marker-i9tbtqse48",
+        "marker-color": "#f1f075",
+        "marker-size": "small",
+        "marker-symbol": "",
+        "title": "ALERT PLATING CO"
+      },
+      "geometry": {
+        "coordinates": [
+          -118.388559,
+          34.250993
+        ],
+        "type": "Point"
+      },
+      "id": "ci9tbxw8h017ni9lvqjmsbhe5"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Chemicals": false,
+        "Class": "Low",
+        "Description": "Rank 32 of 35 Within Fabricated Metals Industry<br><a>Click here for additional details.</a>",
+        "Fabricated Metals": true,
+        "Industry": "Fabricated Metals",
+        "Name": "BARRY AVENUE PLATING CO",
+        "Petroleum": false,
+        "Petroleum Bulk": false,
+        "Primary Metals": false,
+        "TRIF ID": "90064BRRYV2210B",
+        "description": "Toxicity is 32nd Highest of 35 Within Fabricated Metals Industry<br><a>Click here for additional details.</a>",
+        "id": "marker-i9tbtqsf49",
+        "marker-color": "#f1f075",
+        "marker-size": "small",
+        "marker-symbol": "",
+        "title": "BARRY AVENUE PLATING CO"
+      },
+      "geometry": {
+        "coordinates": [
+          -118.44661,
+          34.03449
+        ],
+        "type": "Point"
+      },
+      "id": "ci9tbxw8k017oi9lvv195k8lm"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Chemicals": false,
+        "Class": "Low",
+        "Description": "Rank 33 of 35 Within Fabricated Metals Industry<br><a>Click here for additional details.</a>",
+        "Fabricated Metals": true,
+        "Industry": "Fabricated Metals",
+        "Name": "ANODIZING INDUSTRIES INC",
+        "Petroleum": false,
+        "Petroleum Bulk": false,
+        "Primary Metals": false,
+        "TRIF ID": "9003WNDZNG5222A",
+        "description": "Toxicity is 33rd Highest of 35 Within Fabricated Metals Industry<br><a>Click here for additional details.</a>",
+        "id": "marker-i9tbtqsf4a",
+        "marker-color": "#f1f075",
+        "marker-size": "small",
+        "marker-symbol": "",
+        "title": "ANODIZING INDUSTRIES INC"
+      },
+      "geometry": {
+        "coordinates": [
+          -118.17168,
+          34.07415
+        ],
+        "type": "Point"
+      },
+      "id": "ci9tbxw8m017pi9lvb3dpjmtk"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Chemicals": false,
+        "Class": "Low",
+        "Description": "Rank 34 of 35 Within Fabricated Metals Industry<br><a>Click here for additional details.</a>",
+        "Fabricated Metals": true,
+        "Industry": "Fabricated Metals",
+        "Name": "AUTOMATION PLATING CORP",
+        "Petroleum": false,
+        "Petroleum Bulk": false,
+        "Primary Metals": false,
+        "TRIF ID": "91201TMTNP927TH",
+        "description": "Toxicity is 34th Highest of 35 Within Fabricated Metals Industry<br><a>Click here for additional details.</a>",
+        "id": "marker-i9tbtqsg4b",
+        "marker-color": "#f1f075",
+        "marker-size": "small",
+        "marker-symbol": "",
+        "title": "AUTOMATION PLATING CORP"
+      },
+      "geometry": {
+        "coordinates": [
+          -118.29475,
+          34.16956
+        ],
+        "type": "Point"
+      },
+      "id": "ci9tbxw8p017qi9lvegvnaai9"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Chemicals": false,
+        "Class": "Low",
+        "Description": "Rank 35 of 35 Within Fabricated Metals Industry<br><a>Click here for additional details.</a>",
+        "Fabricated Metals": true,
+        "Industry": "Fabricated Metals",
+        "Name": "STRUCTURAL COMPOSITES INDUSTRIES LLC",
+        "Petroleum": false,
+        "Petroleum Bulk": false,
+        "Primary Metals": false,
+        "TRIF ID": "9176WSTRCT336EN",
+        "description": "Toxicity is 35th Highest of 35 Within Fabricated Metals Industry<br><a>Click here for additional details.</a>",
+        "id": "marker-i9tbtqsh4c",
+        "marker-color": "#f1f075",
+        "marker-size": "small",
+        "marker-symbol": "",
+        "title": "STRUCTURAL COMPOSITES INDUSTRIES LLC"
+      },
+      "geometry": {
+        "coordinates": [
+          -117.80733,
+          34.0487
+        ],
+        "type": "Point"
+      },
+      "id": "ci9tbxw8r017ri9lv7ihohf1l"
+    }
+  ],
+  "type": "FeatureCollection"
+}
