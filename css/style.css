@@ -74,6 +74,7 @@ nav {
 main {
   grid-row: 2;
   align-self: start;
+  display: grid;
 }
 
 main > figure {
@@ -350,7 +351,7 @@ p {
   margin: 0 auto;
   width: 100vw;
   height: 60vh;
-  z-index: 1;
+  z-index: -1;
 }
 
 #chemicals {
